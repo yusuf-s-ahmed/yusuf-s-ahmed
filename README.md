@@ -15,7 +15,7 @@ I’m a computer science student from the UK, who is passionate about creating s
 <p align="left">
 <a href="https://linkedin.com/in/yusuf-s-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuf-s-ahmed" height="30" width="40" /></a>
 <a href="https://instagram.com/yusuf.creates" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yusuf.creates" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@yusuf.creates" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yusuf creates" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCA27kkKbT5etBPYBd070PhA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yusuf creates" height="30" width="40" /></a>
 </p>
 
 ## Technical Projects
