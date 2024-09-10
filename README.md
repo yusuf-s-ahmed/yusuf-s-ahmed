@@ -7,9 +7,14 @@ Aspiring full stack software developer from the UK.
 ## My Work
 
 ### Web Development
-<div style="display: flex; gap: 10px;">
-  <a href="https://github.com/yusuf-s-ahmed/project1" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">Project 1</a>
-  <a href="https://github.com/yusuf-s-ahmed/project2" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">Project 2</a>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <a href="https://github.com/yusuf-s-ahmed/Licence-Key-System/tree/main" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">Shopify Licence Key System</a>
+  <span style="font-size: 14px; color: #666;">| <i>JavaScript, SQL, HTML, CSS, Flask</i></span>
+</div>
+<div style="height: 5px;"></div> <!-- Adjust the height here for spacing -->
+<div style="display: flex; align-items: center; gap: 10px;">
+  <a href="https://github.com/yusuf-s-ahmed/3D-E-commmerce-Website" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">3D Interactive E-commerce Website</a>
+  <span style="font-size: 14px; color: #666;">| <i>JavaScript, HTML, CSS, Blender</i></span>
 </div>
 
 ### Machine Learning / AI
