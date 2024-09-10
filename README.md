@@ -1,6 +1,6 @@
 <h2 align="left">💻 Yusuf Salman Ahmed</h2>
 
-<code>Digital Craftsman (Developer/3D Artist/Editor)</code>
+<code>Digital Craftsman (Developer/Editor/3D Modeller)</code>
 <br><br>
 I’m a computer science student from the UK, who is passionate about creating solutions for real-world problems and offer a broad range of digital services. These include software development, web development, 3D modelling, and video editing. I bring proven experience to each of these fields.
 
