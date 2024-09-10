@@ -42,19 +42,28 @@ I’m a computer science student from the UK, who is passionate about creating s
 </div>
 
 
-<br> <!-- Adds vertical space -->
+## 
 
+
+
+<details>
+  <summary><h3>Yusuf's Coding Journey</h3></summary>
+  Test
+</details>
+
+
+
+##
 
 
 <br>
+
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=yusuf-s-ahmed&theme=dark_dimmed&column=2&title=Commits,Repositories" alt="yusuf-s-ahmed" />
   </a> 
 </p>
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
