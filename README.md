@@ -16,8 +16,8 @@ Aspiring full stack software developer from the UK.
 
 ### Machine Learning / AI
 <div style="display: flex; gap: 10px;">
-  <a href="https://github.com/yusuf-s-ahmed/ml-project1" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">ML Project 1</a>
-  <a href="https://github.com/yusuf-s-ahmed/ml-project2" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">ML Project 2</a>
+  <a href="https://github.com/yusuf-s-ahmed/Apple-Stock-Prediction-Using-Machine-Learning" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">ML Stock Predictor</a>
+  <a href="https://github.com/yusuf-s-ahmed/AI-Customer-Service-ChatBot" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">AI Customer Service Chatbot</a>
 </div>
 
 ### 3D Art
