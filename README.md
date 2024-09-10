@@ -6,7 +6,7 @@
 
 Aspiring full stack software developer from the UK.
 
-## Categories of My Work
+## My Work
 
 ### Web Development
 <div style="display: flex; gap: 10px;">
