@@ -25,6 +25,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusuf-s-ahmed&" alt="yusuf-s-ahmed" /></p>
 
-<img src="https://raw.githubusercontent.com/yusuf-s-ahmed/yusuf-s-ahmed/output/snake.svg" alt="Snake animation" />
 
-###
