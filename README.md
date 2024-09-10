@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Yusuf Salman Ahmed</h1>
-<h3 align="center">An aspiring full stack software developer</h3>
+<h1 align="left">💻 Yusuf Salman Ahmed</h1>
+
+<h3 align="left"><code>Digital Craftsman (Developer/3D Artist/Editor)</code></h3>
+<h3 align="left">An aspiring full stack software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusuf-s-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="yusuf-s-ahmed" /> </p>
 
