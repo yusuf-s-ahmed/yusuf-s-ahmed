@@ -46,6 +46,11 @@ I am an aspiring full stack software developer from the UK.
 </p>
 
 <!-- Most Used Languages and Total Contributions -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yusuf-s-ahmed&show_icons=true&locale=en&layout=compact&hide_title=true&theme=dark" alt="yusuf-s-ahmed" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusuf-s-ahmed&hide_title=true&theme=dark" alt="yusuf-s-ahmed" /></p>
+<table>
+  <tr>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yusuf-s-ahmed&show_icons=true&locale=en&layout=compact&hide_title=true&theme=dark" alt="yusuf-s-ahmed" width="350" /></td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusuf-s-ahmed&hide_title=true&theme=dark" alt="yusuf-s-ahmed" width="400" /></td>
+  </tr>
+</table>
+
 
