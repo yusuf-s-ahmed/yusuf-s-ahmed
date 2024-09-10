@@ -2,7 +2,16 @@
 
 <h3 align="left"><code>Digital Craftsman (Developer/3D Artist/Editor)</code></h3>
 
-I am an aspiring full stack software developer from the UK.
+
+<p align="left">
+  Aspiring full stack software developer from the UK 
+  <img src="https://files.softicons.com/download/internet-icons/glossy-flag-icons-by-nordic-factory/png/256/uk.png" alt="UK Flag" width="25" height="25" style="border-radius: 50%; vertical-align: middle; margin-left: 5px; margin-top: 100px;" />
+</p>
+
+
+
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusuf-s-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="yusuf-s-ahmed" /> </p>
