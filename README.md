@@ -1,9 +1,14 @@
 <h2 align="left">💻 Yusuf Salman Ahmed</h2>
 
-<code>Digital Craftsman (Developer/3D Artist/Editor)</code></h3>
+</h3><code>Digital Craftsman (Developer/3D Artist/Editor)</code></h3>
 
-Aspiring full stack software developer from the UK.
 
+I’m passionate about creating solutions for real-world problems and offer a broad range of digital services. These include software development, web development, 3D modeling, and video editing. I bring extensive experience to each of these fields.
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/yusuf-s-ahmed](https://www.linkedin.com/in/yusuf-s-ahmed)
+
+- ⚡ Fun fact **I have been offering freelance video editing services since I was 13.**
+  
 ## Projects
 
 ### Web Development
@@ -37,9 +42,7 @@ Aspiring full stack software developer from the UK.
 
 <br> <!-- Adds vertical space -->
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/yusuf-s-ahmed](https://www.linkedin.com/in/yusuf-s-ahmed)
 
-- ⚡ Fun fact **I have been offering freelance video editing services since I was 13.**
 
 <br>
 
