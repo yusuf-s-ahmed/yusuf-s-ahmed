@@ -2,7 +2,7 @@
 
 <code>Digital Craftsman (Developer/3D Artist/Editor)</code>
 <br><br>
-I’m a computer science student who is passionate about creating solutions for real-world problems and offer a broad range of digital services. These include software development, web development, 3D modeling, and video editing. I bring extensive experience to each of these fields, as shown from my experience.
+I’m a computer science student who is passionate about creating solutions for real-world problems and offer a broad range of digital services. These include software development, web development, 3D modeling, and video editing. I bring proven experience to each of these fields.
 
 
 
