@@ -11,7 +11,7 @@ I’m passionate about creating solutions for real-world problems and offer a br
 
 - ⚡ Fun fact: **I have been offering freelance video editing services since I was 13.**
   
-## Projects
+## Technical Projects
 
 ### Web Development
 <div style="display: flex; align-items: center; gap: 10px;">
