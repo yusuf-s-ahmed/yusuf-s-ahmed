@@ -1,6 +1,6 @@
-<h1 align="left">💻 Yusuf Salman Ahmed</h1>
+<h2 align="left">💻 Yusuf Salman Ahmed</h2>
 
-<h3 align="left"><code>Digital Craftsman (Developer/3D Artist/Editor)</code></h3>
+<code>Digital Craftsman (Developer/3D Artist/Editor)</code></h3>
 
 Aspiring full stack software developer from the UK.
 
@@ -12,23 +12,16 @@ Aspiring full stack software developer from the UK.
   <a href="https://github.com/yusuf-s-ahmed/project2" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">Project 2</a>
 </div>
 
-
-
 ### Machine Learning / AI
 <div style="display: flex; align-items: center; gap: 10px;">
   <a href="https://github.com/yusuf-s-ahmed/Apple-Stock-Prediction-Using-Machine-Learning" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">ML Stock Predictor</a>
   <span style="font-size: 14px; color: #666;"><i>| Python, TensorFlow, Scikit-Learn, Matplotlib, Pandas</i></span>
 </div>
-<div style="height: 10px;"></div> <!-- Adjust the height here for spacing -->
+<div style="height: 5px;"></div> <!-- Adjust the height here for spacing -->
 <div style="display: flex; align-items: center; gap: 10px;">
   <a href="https://github.com/yusuf-s-ahmed/AI-Customer-Service-ChatBot" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">AI Customer Service Chatbot</a>
   <span style="font-size: 14px; color: #666;"><i>| Python, OllamaLLM, LangChain</i></span>
 </div>
-
-
-
-
-
 
 ### 3D Art
 <div style="display: flex; gap: 10px;">
@@ -81,8 +74,8 @@ Aspiring full stack software developer from the UK.
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="blender" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vs_code" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://logos-world.net/wp-content/uploads/2020/11/Adobe-Photoshop-Logo-2019-2020.png" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="premiere_pro" width="40" height="40"/> </a> 
-<a href="https://w7.pngwing.com/pngs/332/508/png-transparent-adobe-after-effects-macos-bigsur-icon-thumbnail.png" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1051px-Adobe_After_Effects_CC_icon.svg.png" alt="after_effects" width="40" height="40"/> </a> 
+<a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="premiere_pro" width="40" height="40"/> </a> 
+<a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1051px-Adobe_After_Effects_CC_icon.svg.png" alt="after_effects" width="40" height="40"/> </a> 
 </p>
 
 <!-- Most Used Languages and Total Contributions -->
