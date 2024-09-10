@@ -7,9 +7,9 @@ I’m passionate about creating solutions for real-world problems and offer a br
 
 
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/yusuf-s-ahmed](https://www.linkedin.com/in/yusuf-s-ahmed)
+- 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/yusuf-s-ahmed)
 
-- ⚡ Fun fact **I have been offering freelance video editing services since I was 13.**
+- ⚡ Fun fact: **I have been offering freelance video editing services since I was 13.**
   
 ## Projects
 
