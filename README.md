@@ -1,9 +1,11 @@
 <h2 align="left">💻 Yusuf Salman Ahmed</h2>
 
-</h3><code>Digital Craftsman (Developer/3D Artist/Editor)</code></h3>
-
-
+<code>Digital Craftsman (Developer/3D Artist/Editor)</code>
+<br><br>
 I’m passionate about creating solutions for real-world problems and offer a broad range of digital services. These include software development, web development, 3D modeling, and video editing. I bring extensive experience to each of these fields.
+
+
+
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yusuf-s-ahmed](https://www.linkedin.com/in/yusuf-s-ahmed)
 
