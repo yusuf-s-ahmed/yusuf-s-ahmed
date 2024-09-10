@@ -47,8 +47,15 @@ I’m a computer science student from the UK, who is passionate about creating s
 
 
 <details>
-  <summary><h3>Yusuf's Coding Journey</h3></summary>
-  Test
+  <summary><h3>My Coding Journey</h3></summary>
+  At 13, I began offering video editing services to various clients and organizations, specialising in VFX, motion design, and graphic design. I earned over £400 in commissions during this time. While at school, my interest in maths and science grew. I used the money I made from editing to invest in a budget laptop for schoolwork - a Linux-based system. This sparked my fascination with software and automation and the ability to create solutions to problems.
+
+Driven by curiosity, I saved up for a more powerful Windows laptop and started teaching myself to code. I learned through tutorials and built projects from scratch, integrating my existing skills into new solutions.
+
+To my surprise, a connection from my editing journey, whom I had met over four years ago, reached out. He was impressed with my projects and sought my help with a problem in his freelance web development career. I developed a license key system for him, solving a significant issue he faced.
+
+This experience opened my eyes to the potential of offering my services across various fields. Currently, I’m working on the startup of a physiotherapy health clinic, where I handle software development, database management, AI/ML engineering, 3D modeling, videography, and video editing. This role not only allows me to explore my passions and earn income but also provides valuable technical experience to enhance my resume.
+
 </details>
 
 
