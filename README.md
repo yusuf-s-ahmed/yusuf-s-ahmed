@@ -1,8 +1,10 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yusuf-s-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="yusuf-s-ahmed" /> </p>
+
 <h1 align="left">💻 Yusuf Salman Ahmed</h1>
 
 <h3 align="left"><code>Digital Craftsman (Developer/3D Artist/Editor)</code></h3>
 
-Aspiring full stack software developer from the UK <img src="https://files.softicons.com/download/internet-icons/glossy-flag-icons-by-nordic-factory/png/256/uk.png" alt="UK Flag" width="25" height="25" style="vertical-align: middle; margin-left: 5px;"/>
+Aspiring full stack software developer from the UK.
 
 ## Categories of My Work
 
@@ -12,7 +14,7 @@ Aspiring full stack software developer from the UK <img src="https://files.softi
   <a href="https://github.com/yusuf-s-ahmed/project2" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">Project 2</a>
 </div>
 
-### Machine Learning
+### Machine Learning / AI
 <div style="display: flex; gap: 10px;">
   <a href="https://github.com/yusuf-s-ahmed/ml-project1" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">ML Project 1</a>
   <a href="https://github.com/yusuf-s-ahmed/ml-project2" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">ML Project 2</a>
@@ -20,11 +22,11 @@ Aspiring full stack software developer from the UK <img src="https://files.softi
 
 ### 3D Art
 <div style="display: flex; gap: 10px;">
-  <a href="https://github.com/yusuf-s-ahmed/ml-project1" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">ML Project 1</a>
-  <a href="https://github.com/yusuf-s-ahmed/ml-project2" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">ML Project 2</a>
+  <a href="https://github.com/yusuf-s-ahmed/3d-project1" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">3D Project 1</a>
+  <a href="https://github.com/yusuf-s-ahmed/3d-project2" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">3D Project 2</a>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yusuf-s-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="yusuf-s-ahmed" /> </p>
+<br> <!-- Adds vertical space -->
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
