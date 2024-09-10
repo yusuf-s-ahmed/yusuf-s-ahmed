@@ -30,10 +30,15 @@ Aspiring full stack software developer from the UK.
 
 
 ### 3D Art
-<div style="display: flex; gap: 10px;">
-  <a href="https://github.com/yusuf-s-ahmed/3d-project1" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">3D Project 1</a>
-  <a href="https://github.com/yusuf-s-ahmed/3d-project2" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">3D Project 2</a>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <a href="https://cdn.inflact.com/media/459136157_831388959116609_7107248275972490463_n.jpg?url=https%3A%2F%2Fscontent.cdninstagram.com%2Fv%2Ft51.29350-15%2F459136157_831388959116609_7107248275972490463_n.jpg%3Fstp%3Ddst-jpg_e35_s1080x1080%26_nc_ht%3Dscontent.cdninstagram.com%26_nc_cat%3D105%26_nc_ohc%3DJkGCFQ9NdjoQ7kNvgHPr_L5%26_nc_gid%3Dfd52abf8b743471e969949952cd51941%26edm%3DAPs17CUBAAAA%26ccb%3D7-5%26ig_cache_key%3DMzQ1NDE4NjA2NDMwNzE2Mjk1NA%253D%253D.3-ccb7-5%26oh%3D00_AYDFLFzUd_xXaeMfZLKHNz_DKVNED8LdEJcOTNkpIoUPOQ%26oe%3D66E65EF7%26_nc_sid%3D10d13b&time=1725991200&key=8f2cd3e8a203b9bfaa74b542ef88d582" target="_blank">
+    <img src="https://cdn.inflact.com/media/458804380_1190823145464810_6744708371584308057_n.jpg?url=https%3A%2F%2Fscontent.cdninstagram.com%2Fv%2Ft51.29350-15%2F458804380_1190823145464810_6744708371584308057_n.jpg%3Fstp%3Ddst-jpg_e35%26_nc_ht%3Dscontent.cdninstagram.com%26_nc_cat%3D106%26_nc_ohc%3D9FSPTI0ZU1cQ7kNvgF7dPRo%26edm%3DAPs17CUBAAAA%26ccb%3D7-5%26oh%3D00_AYAIdhcLQiK2RbHlciwa6kObkSnQeZ9VaePk0FeB6JJveg%26oe%3D66E6605E%26_nc_sid%3D10d13b&time=1725991200&key=915dff13424ac6f608d8dfeb2f0b62ea" alt="3D Art Image 1" width="125" height="125" style="border-radius: 5px;"/>
+  </a>
+  <a href="https://cdn.inflact.com/media/451386100_1225076855178482_9137388112123541839_n.jpg?url=https%3A%2F%2Fscontent.cdninstagram.com%2Fv%2Ft51.29350-15%2F451386100_1225076855178482_9137388112123541839_n.jpg%3Fstp%3Ddst-jpg_e35_s1080x1080%26_nc_ht%3Dinstagram.ftrv3-1.fna.fbcdn.net%26_nc_cat%3D102%26_nc_ohc%3D17EFAyEtMh8Q7kNvgG6vfAY%26edm%3DAP_V10EBAAAA%26ccb%3D7-5%26oh%3D00_AYCUVkmd28REtqusHhvlGFEpHWd6d85q9WtqfBaYTzWaZg%26oe%3D66E64A1C%26_nc_sid%3D2999b8&time=1725991200&key=4b2cd99d6abcd3eb53fa1bc7e01ffe9f" target="_blank">
+    <img src="https://cdn.inflact.com/media/451386100_1225076855178482_9137388112123541839_n.jpg?url=https%3A%2F%2Fscontent.cdninstagram.com%2Fv%2Ft51.29350-15%2F451386100_1225076855178482_9137388112123541839_n.jpg%3Fstp%3Ddst-jpg_e35_s1080x1080%26_nc_ht%3Dinstagram.ftrv3-1.fna.fbcdn.net%26_nc_cat%3D102%26_nc_ohc%3D17EFAyEtMh8Q7kNvgG6vfAY%26edm%3DAP_V10EBAAAA%26ccb%3D7-5%26oh%3D00_AYCUVkmd28REtqusHhvlGFEpHWd6d85q9WtqfBaYTzWaZg%26oe%3D66E64A1C%26_nc_sid%3D2999b8&time=1725991200&key=4b2cd99d6abcd3eb53fa1bc7e01ffe9f" alt="3D Art Image 2" width="125" height="125" style="border-radius: 5px;"/>
+  </a>
 </div>
+
 
 <br> <!-- Adds vertical space -->
 
