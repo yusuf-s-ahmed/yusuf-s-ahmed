@@ -15,16 +15,19 @@ Aspiring full stack software developer from the UK.
 </div>
 
 
+
 ### Machine Learning / AI
 <div style="display: flex; align-items: center; gap: 10px;">
   <a href="https://github.com/yusuf-s-ahmed/Apple-Stock-Prediction-Using-Machine-Learning" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">ML Stock Predictor</a>
-  <span style="font-size: 14px; color: #666;">| Python, TensorFlow, Scikit-Learn, Matplotlib, Pandas</span>
+  <span style="font-size: 14px; color: #666;"><i>| Python, TensorFlow, Scikit-Learn, Matplotlib, Pandas</i></span>
 </div>
-<br>
+<div style="height: 10px;"></div> <!-- Adjust the height here for spacing -->
 <div style="display: flex; align-items: center; gap: 10px;">
   <a href="https://github.com/yusuf-s-ahmed/AI-Customer-Service-ChatBot" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">AI Customer Service Chatbot</a>
-  <span style="font-size: 14px; color: #666;">| Python, OllamaLLM, LangChain</span>
+  <span style="font-size: 14px; color: #666;"><i>| Python, OllamaLLM, LangChain</i></span>
 </div>
+
+
 
 
 
