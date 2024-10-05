@@ -25,11 +25,6 @@ I’m a computer science student from the UK, who is passionate about creating s
   <a href="https://github.com/yusuf-s-ahmed/Licence-Key-System/tree/main" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">Cloud-based Data Migration Tool</a>
   <span style="font-size: 14px; color: #666;">| <i>Python, Django, RESTful API, FastAPI, HTML, CSS, React.js, Node.js </i></span>
 </div>
-<div style="height: 5px;"></div> <!-- Adjust the height here for spacing -->
-<div style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://github.com/yusuf-s-ahmed/3D-E-commmerce-Website" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">3D Interactive E-commerce Website</a>
-  <span style="font-size: 14px; color: #666;">| <i>JavaScript, HTML, CSS, Blender</i></span>
-</div>
 
 ### Web Development
 <div style="display: flex; align-items: center; gap: 10px;">
