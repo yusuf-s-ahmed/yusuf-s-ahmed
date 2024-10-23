@@ -47,7 +47,7 @@ I’m a computer science student from the UK, who is passionate about creating s
 
 ### Data Science
 <div style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://github.com/yusuf-ahmed-5/Meta-Data-Analysis" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">A/B Testing & Analysing Meta's Ad Dataset</a>
+  <a href="https://github.com/yusuf-ahmed-5/Meta-Dataset-Analysis" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">A/B Testing & Analysing Meta's Ad Dataset</a>
   <span style="font-size: 14px; color: #666;">| <i>Python, Pandas, Numpy, R, Excel</i></span>
 </div>
 <div style="height: 5px;"></div> <!-- Adjust the height here for spacing -->
