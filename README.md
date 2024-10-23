@@ -20,7 +20,7 @@ I’m a computer science student from the UK, who is passionate about creating s
 
 ## Projects
 
-### Full Stack Development
+### Software Development
 <div style="display: flex; align-items: center; gap: 10px;">
   <a href="https://github.com/yusuf-s-ahmed/Physio-Assignment-Platform" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">Automated Physio Rehab Assignment Platform & Patient Database Management</a>
   <span style="font-size: 14px; color: #666;">| <i>Python, SendGridAPI, MySQL, Streamlit, CSS</i></span>
@@ -29,6 +29,29 @@ I’m a computer science student from the UK, who is passionate about creating s
   <a href="https://github.com/yusuf-s-ahmed/Cloud-Data-Migration-Tool" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">Cloud-based Data Migration Tool</a>
   <span style="font-size: 14px; color: #666;">| <i>Python, Django, RESTful API, FastAPI, HTML, CSS, React.js, Node.js </i></span>
 </div>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <a href="https://github.com/yusuf-ahmed-5/Shopify-Theme-Security-System/tree/main" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">Shopify Licence Key System</a>
+  <span style="font-size: 14px; color: #666;">| <i>Python, Flask, JavaScript, SQL, HTML, CSS</i></span>
+</div>
+<div style="height: 5px;"></div> <!-- Adjust the height here for spacing -->
+<div style="display: flex; align-items: center; gap: 10px;">
+  <a href="https://github.com/yusuf-ahmed-5/NASA-Mars-Rover-Image-Receiver" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">NASA Mars Image Receiver</a>
+  <span style="font-size: 14px; color: #666;">| <i>Python, ThreadPoolExecuter </i></span>
+</div>
+<div style="height: 5px;"></div> <!-- Adjust the height here for spacing -->
+<div style="display: flex; align-items: center; gap: 10px;">
+  <a href="https://github.com/yusuf-ahmed-5/3D-Ecommerce-Website" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">3D Interactive E-commerce Website</a>
+  <span style="font-size: 14px; color: #666;">| <i>JavaScript, HTML, CSS, Blender</i></span>
+</div>
+
+
+### Data Science
+<div style="display: flex; align-items: center; gap: 10px;">
+  <a href="https://github.com/yusuf-ahmed-5/Meta-Data-Analysis" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">A/B Testing & Analysing Meta's Ad Dataset</a>
+  <span style="font-size: 14px; color: #666;">| <i>Python, Pandas, Numpy, R, Excel</i></span>
+</div>
+<div style="height: 5px;"></div> <!-- Adjust the height here for spacing -->
+
 
 ### Machine Learning / AI
 <div style="display: flex; align-items: center; gap: 10px;">
@@ -41,30 +64,7 @@ I’m a computer science student from the UK, who is passionate about creating s
   <span style="font-size: 14px; color: #666;">| <i>Python, OllamaLLM, LangChain</i></span>
 </div>
 
-### Back End Development
-<div style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://github.com/yusuf-ahmed-5/Shopify-Theme-Security-System/tree/main" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">Shopify Licence Key System</a>
-  <span style="font-size: 14px; color: #666;">| <i>Python, Flask, JavaScript, SQL, HTML, CSS</i></span>
-</div>
-<div style="height: 5px;"></div> <!-- Adjust the height here for spacing -->
-<div style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://github.com/yusuf-ahmed-5/NASA-Mars-Rover-Image-Receiver" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">NASA Mars Image Receiver</a>
-  <span style="font-size: 14px; color: #666;">| <i>Python, ThreadPoolExecuter </i></span>
-</div>
 
-### Front End Development
-<div style="height: 5px;"></div> <!-- Adjust the height here for spacing -->
-<div style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://github.com/yusuf-ahmed-5/3D-Ecommerce-Website" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">3D Interactive E-commerce Website</a>
-  <span style="font-size: 14px; color: #666;">| <i>JavaScript, HTML, CSS, Blender</i></span>
-</div>
-
-### Data Science
-<div style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://github.com/yusuf-ahmed-5/Meta-Data-Analysis" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">A/B Testing & Analysing Meta's Ad Dataset</a>
-  <span style="font-size: 14px; color: #666;">| <i>Python, Pandas, Numpy, R, Excel</i></span>
-</div>
-<div style="height: 5px;"></div> <!-- Adjust the height here for spacing -->
 
 
 <h3 align="left">Languages and Tools:</h3>
