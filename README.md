@@ -1,11 +1,11 @@
 <h2 align="left">💻 Yusuf Salman Ahmed</h2>
 
-<code>Digital Craftsman (Developer/Editor/3D Modeller)</code>
+<code>Software Developer</code>
 <br><br>
-I’m a computer science student from the UK, who is passionate about creating solutions for real-world problems and offer a broad range of digital services. These include software development, web development, 3D modelling, and video editing. I bring proven experience to each of these fields.
+I’m a computer science student from the UK, who is passionate about creating solutions for real-world problems and offer a broad range of digital services. These include software development, data analysis & web development. I bring proven experience to each of these fields.
 
 
-- 🔭 I’m currently contributing to a physiotherapy clinic startup, where I handle software development, database management, AI/ML engineering, 3D modeling, videography, and video editing.
+- 🔭 I’m currently contributing to a physiotherapy clinic startup, where I handle software development, database management, AI/ML engineering.
 
 - 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/yusuf-s-ahmed)
 
@@ -18,7 +18,7 @@ I’m a computer science student from the UK, who is passionate about creating s
 <a href="https://www.youtube.com/channel/UCA27kkKbT5etBPYBd070PhA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yusuf creates" height="30" width="40" /></a>
 </p>
 
-## Technical Projects
+## Projects
 
 ### Full Stack Development
 <div style="display: flex; align-items: center; gap: 10px;">
@@ -26,59 +26,72 @@ I’m a computer science student from the UK, who is passionate about creating s
   <span style="font-size: 14px; color: #666;">| <i>Python, Django, RESTful API, FastAPI, HTML, CSS, React.js, Node.js </i></span>
 </div>
 
-### Web Development
+### Back End Development
 <div style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://github.com/yusuf-s-ahmed/Licence-Key-System/tree/main" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">Shopify Licence Key System</a>
+  <a href="https://github.com/yusuf-ahmed-5/Shopify-Theme-Security-System/tree/main" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">Shopify Licence Key System</a>
   <span style="font-size: 14px; color: #666;">| <i>Python, Flask, JavaScript, SQL, HTML, CSS</i></span>
 </div>
 <div style="height: 5px;"></div> <!-- Adjust the height here for spacing -->
 <div style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://github.com/yusuf-s-ahmed/3D-E-commmerce-Website" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">3D Interactive E-commerce Website</a>
+  <a href="https://github.com/yusuf-ahmed-5/NASA-Mars-Rover-Image-Receiver" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">NASA Mars Image Receiver</a>
+  <span style="font-size: 14px; color: #666;">| <i>Python, ThreadPoolExecuter </i></span>
+</div>
+
+### Front End Development
+<div style="height: 5px;"></div> <!-- Adjust the height here for spacing -->
+<div style="display: flex; align-items: center; gap: 10px;">
+  <a href="https://github.com/yusuf-ahmed-5/3D-Ecommerce-Website" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">3D Interactive E-commerce Website</a>
   <span style="font-size: 14px; color: #666;">| <i>JavaScript, HTML, CSS, Blender</i></span>
 </div>
 
 ### Machine Learning / AI
 <div style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://github.com/yusuf-s-ahmed/Apple-Stock-Prediction-Using-Machine-Learning" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">ML Stock Predictor</a>
+  <a href="https://github.com/yusuf-ahmed-5/Machine-Learning-Stock-Predictor" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">ML Stock Predictor</a>
   <span style="font-size: 14px; color: #666;">| <i>Python, TensorFlow, Scikit-Learn, Matplotlib, Pandas</i></span>
 </div>
 <div style="height: 5px;"></div> <!-- Adjust the height here for spacing -->
 <div style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://github.com/yusuf-s-ahmed/AI-Customer-Service-ChatBot" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">AI Customer Service Chatbot</a>
+  <a href="https://github.com/yusuf-ahmed-5/AI-Customer-Service-ChatBot" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">AI Customer Service Chatbot</a>
   <span style="font-size: 14px; color: #666;">| <i>Python, OllamaLLM, LangChain</i></span>
 </div>
 
 ### Other
 <div style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://github.com/yusuf-s-ahmed/NASA-Mars-Image-Receiver" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">NASA Mars Image Receiver</a>
+  <a href="https://github.com/yusuf-ahmed-5/NASA-Mars-Rover-Image-Receiver" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">NASA Mars Image Receiver</a>
   <span style="font-size: 14px; color: #666;">| <i>Python, ThreadPoolExecuter </i></span>
 </div>
 
-<h3 align="left">Languages, Tools & Technologies:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+</p>
+<!-- Spacing adjustment -->
+<div style="margin-bottom: 20px;"></div> <!-- Adjust the margin as needed -->
+
+<h3 align="left">Software:</h3>
+<p align="left"> 
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="blender" width="40" height="40"/> </a> 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vs_code" width="40" height="40"/> </a> 
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> </a> 
+<a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="premiere_pro" width="40" height="40"/> </a> 
+<a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1051px-Adobe_After_Effects_CC_icon.svg.png" alt="after_effects" width="40" height="40"/> </a> 
 </p>
 
 ## 
 
-
-
-<details>
-  <summary><h3>My Coding Journey</h3></summary>
-  At 13, I began offering video editing services to various clients and organizations, specialising in VFX, motion design, and graphic design. I earned over £400 in commissions during this time. While at school, my interest in maths and science grew. I used the money I made from editing to invest in a budget laptop for schoolwork - a Linux-based system. This sparked my fascination with software and automation and the ability to create solutions to problems.
-
-Driven by curiosity, I saved up for a more powerful Windows laptop and started teaching myself to code. I learned through tutorials and built projects from scratch, integrating my existing skills into new solutions.
-
-To my surprise, a connection from my editing journey, whom I had met over four years ago, reached out. He was impressed with my projects and sought my help with a problem in his freelance web development career. I developed a license key system for him, solving a significant issue he faced.
-
-This experience opened my eyes to the potential of offering my services across various fields. Currently, I’m working on the startup of a physiotherapy health clinic, where I handle software development, database management, AI/ML engineering, 3D modeling, videography, and video editing. This role not only allows me to explore my passions and earn income but also provides valuable technical experience to enhance my resume.
-
-</details>
-
-
-
-##
 
 <h3 align="left">Github Statistics:</h3>
 
