@@ -59,12 +59,6 @@ I’m a computer science student from the UK, who is passionate about creating s
   <span style="font-size: 14px; color: #666;">| <i>Python, OllamaLLM, LangChain</i></span>
 </div>
 
-### Other
-<div style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://github.com/yusuf-ahmed-5/NASA-Mars-Rover-Image-Receiver" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">NASA Mars Image Receiver</a>
-  <span style="font-size: 14px; color: #666;">| <i>Python, ThreadPoolExecuter </i></span>
-</div>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
