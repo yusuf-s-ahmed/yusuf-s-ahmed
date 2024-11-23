@@ -1,11 +1,11 @@
 <h2 align="left">💻 Yusuf Salman Ahmed</h2>
 
-<code>Software Developer</code>
+<code>Cloud & Software Engineer</code>
 <br><br>
 I’m a computer science student from the UK, who is passionate about creating solutions for real-world problems and offer a broad range of digital services. These include software development, data analysis & web development. I bring proven experience to each of these fields.
 
 
-- 🔭 I’m currently contributing to a physiotherapy clinic startup, where I handle software development, database management, AI/ML engineering.
+- 🔭 I’m currently an intern at a private physiotherapy clinic as a cloud & software engineer.
 
 - 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/yusuf-s-ahmed)
 
