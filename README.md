@@ -70,7 +70,7 @@ I'm a Computer Science BSc who has proven experience in cloud technologies and d
 
 <!-- Cloud Technologies -->
 <h4 align="left">Cloud Technologies</h4>
-'AWS', 'Azure', 'GCP', 'Heroku', 'Docker'
+*AWS, Azure, GCP, Heroku, Docker*
 
 <!-- Back-End -->
 <h4 align="left">Back-End</h4>
