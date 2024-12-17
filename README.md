@@ -65,9 +65,6 @@ I'm a Computer Science BSc who has proven experience in cloud technologies and d
 
 
 
-
-## Languages and Tools
-
 <!-- Cloud Technologies -->
 <h4 align="left">Cloud Technologies</h4>
 *<i>AWS, Azure, GCP, Heroku, Docker</i>*
