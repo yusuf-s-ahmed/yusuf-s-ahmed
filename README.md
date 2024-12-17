@@ -67,27 +67,27 @@ I'm a Computer Science BSc who has proven experience in cloud technologies and d
 
 <!-- Cloud Technologies -->
 <h4 align="left">Cloud Technologies</h4>
-*<i>AWS, Azure, GCP, Heroku, Docker</i>*
+<i>AWS, Azure, GCP, Heroku, Docker</i>
 
 <!-- Back-End Development -->
 <h4 align="left">Back-End Development</h4>
-*<i>Python, Flask, Django, FastAPI, MySQL</i>*
+<i>Python, Flask, Django, FastAPI, MySQL</i>
 
 <!-- Front-End Development -->
 <h4 align="left">Front-End Development</h4>
-*<i>HTML, CSS, JavaScript</i>*
+<i>HTML, CSS, JavaScript</i>
 
 <!-- Data Science & Machine Learning -->
 <h4 align="left">Data Science & Machine Learning</h4>
-*<i>Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch</i>*
+<i>Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch</i>
 
 <!-- Creative Tools -->
 <h4 align="left">Creative Tools</h4>
-*<i>Figma, Blender</i>*
+<i>Figma, Blender</i>
 
 <!-- Version Control -->
 <h4 align="left">Version Control</h4>
-*<i>Git</i>*
+<i>Git</i>
 
 
 
