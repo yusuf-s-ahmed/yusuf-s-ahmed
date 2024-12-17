@@ -18,26 +18,23 @@ I'm a Computer Science BSc who has proven experience in cloud technologies and d
 <a href="https://www.youtube.com/channel/UCA27kkKbT5etBPYBd070PhA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yusuf creates" height="30" width="40" /></a>
 </p>
 
-## Experience
+## Experience  
 
-### Vital Therapy
-#### <i>Cloud & Software Engineer Intern</i>
-<div style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://github.com/yusuf-s-ahmed/Physio-Assignment-Platform" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">Automated Physio Rehab Assignment Platform & Patient Database Management</a>
-  <span style="font-size: 14px; color: #666;">| <i>Python, SendGridAPI, MySQL, Streamlit, CSS</i></span>
-</div>
-### Heart Guard
-#### <i>Software Engineer</i>
-<div style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://github.com/yusuf-s-ahmed/HeartGuard" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">Autonomous, AI-driven Emergency Alert Medical Intervention Platform</a>
-  <span style="font-size: 14px; color: #666;">| <i>Python, C++, OpenAI API, TwilioAPI, CSS</i></span>
-</div>
-### Shopify Developer
-#### <i>Back-End Software Engineer</i>
-<div style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://github.com/yusuf-ahmed-5/Shopify-Theme-Security-System/tree/main" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">Shopify Licence Key System</a>
-  <span style="font-size: 14px; color: #666;">| <i>Python, Flask, JavaScript, SQL, HTML, CSS</i></span>
-</div>
+### Vital Therapy  
+**Cloud & Software Engineer Intern**  
+[**Automated Physio Rehab Assignment Platform & Patient Database Management**](https://github.com/yusuf-s-ahmed/Physio-Assignment-Platform)  
+*Technologies:* `Python`, `SendGrid API`, `MySQL`, `Streamlit`, `CSS`  
+
+### Heart Guard  
+**Software Engineer**  
+[**Autonomous, AI-driven Emergency Alert Medical Intervention Platform**](https://github.com/yusuf-s-ahmed/HeartGuard)  
+*Technologies:* `Python`, `C++`, `OpenAI API`, `Twilio API`, `CSS`  
+
+### Shopify Developer  
+**Back-End Software Engineer**  
+[**Shopify Licence Key System**](https://github.com/yusuf-ahmed-5/Shopify-Theme-Security-System/tree/main)  
+*Technologies:* `Python`, `Flask`, `JavaScript`, `SQL`, `HTML`, `CSS`  
+
 
 
 ## Projects
