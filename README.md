@@ -38,7 +38,7 @@ I'm a Computer Science BSc who has proven experience in cloud technologies and d
 
 ## Projects  
 
-### Software Development  
+
 
 [**Cloud-based Data Migration Tool**](https://github.com/yusuf-s-ahmed/Cloud-Data-Migration-Tool)  
 *Python, Django, RESTful API, FastAPI, HTML, CSS, React.js, Node.js*  
@@ -51,14 +51,11 @@ I'm a Computer Science BSc who has proven experience in cloud technologies and d
 
 
 
-### Data Science  
-
 [**A/B Testing & Analysing Meta's Ad Dataset**](https://github.com/yusuf-ahmed-5/Meta-Dataset-Analysis)  
 *Python, Pandas, Numpy, R, Excel*  
 
 
 
-### Machine Learning / AI  
 
 [**ML Stock Predictor**](https://github.com/yusuf-ahmed-5/Machine-Learning-Stock-Predictor)  
 *Python, TensorFlow, Scikit-Learn, Matplotlib, Pandas*  
@@ -69,10 +66,10 @@ I'm a Computer Science BSc who has proven experience in cloud technologies and d
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools
 
 <!-- Cloud Technologies -->
-<h4 align="left">☁️ Cloud Technologies</h4>
+<h4 align="left">Cloud Technologies</h4>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -83,7 +80,7 @@ I'm a Computer Science BSc who has proven experience in cloud technologies and d
 </p>
 
 <!-- Back-End -->
-<h4 align="left">🛠️ Back-End</h4>
+<h4 align="left">Back-End</h4>
 <p align="left">
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
@@ -100,7 +97,7 @@ I'm a Computer Science BSc who has proven experience in cloud technologies and d
 </p>
 
 <!-- Front-End -->
-<h4 align="left">💻 Front-End</h4>
+<h4 align="left">Front-End</h4>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -114,7 +111,7 @@ I'm a Computer Science BSc who has proven experience in cloud technologies and d
 </p>
 
 <!-- Creative Tools -->
-<h4 align="left">🎨 Creative Tools</h4>
+<h4 align="left">Creative Tools</h4>
 <p align="left">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
@@ -122,7 +119,7 @@ I'm a Computer Science BSc who has proven experience in cloud technologies and d
 </p>
 
 <!-- Data & Machine Learning -->
-<h4 align="left">📊 Data & Machine Learning</h4>
+<h4 align="left">Data & Machine Learning</h4>
 <p align="left">
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
