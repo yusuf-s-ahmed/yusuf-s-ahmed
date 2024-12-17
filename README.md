@@ -70,14 +70,7 @@ I'm a Computer Science BSc who has proven experience in cloud technologies and d
 
 <!-- Cloud Technologies -->
 <h4 align="left">Cloud Technologies</h4>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-  </a>
-</p>
+'AWS', 'Azure', 'GCP', 'Heroku', 'Docker'
 
 <!-- Back-End -->
 <h4 align="left">Back-End</h4>
