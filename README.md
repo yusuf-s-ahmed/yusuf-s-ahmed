@@ -37,56 +37,35 @@ I'm a Computer Science BSc who has proven experience in cloud technologies and d
 
 
 
-## Projects
+## Projects  
 
-### Software Development
+### Software Development  
 
-<div style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://github.com/yusuf-s-ahmed/HeartGuard" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">Autonomous, AI-driven Emergency Alert Medical Intervention Platform</a>
-  <span style="font-size: 14px; color: #666;">| <i>Python, C++, OpenAI API, TwilioAPI, CSS</i></span>
-</div>
-<div style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://github.com/yusuf-s-ahmed/Physio-Assignment-Platform" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">Automated Physio Rehab Assignment Platform & Patient Database Management</a>
-  <span style="font-size: 14px; color: #666;">| <i>Python, SendGridAPI, MySQL, Streamlit, CSS</i></span>
-</div>
-<div style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://github.com/yusuf-s-ahmed/Cloud-Data-Migration-Tool" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">Cloud-based Data Migration Tool</a>
-  <span style="font-size: 14px; color: #666;">| <i>Python, Django, RESTful API, FastAPI, HTML, CSS, React.js, Node.js </i></span>
-</div>
-<div style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://github.com/yusuf-ahmed-5/Shopify-Theme-Security-System/tree/main" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">Shopify Licence Key System</a>
-  <span style="font-size: 14px; color: #666;">| <i>Python, Flask, JavaScript, SQL, HTML, CSS</i></span>
-</div>
-<div style="height: 5px;"></div> <!-- Adjust the height here for spacing -->
-<div style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://github.com/yusuf-ahmed-5/NASA-Mars-Rover-Image-Receiver" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">NASA Mars Image Receiver</a>
-  <span style="font-size: 14px; color: #666;">| <i>Python, ThreadPoolExecuter </i></span>
-</div>
-<div style="height: 5px;"></div> <!-- Adjust the height here for spacing -->
-<div style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://github.com/yusuf-ahmed-5/3D-Ecommerce-Website" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">3D Interactive E-commerce Website</a>
-  <span style="font-size: 14px; color: #666;">| <i>JavaScript, HTML, CSS, Blender</i></span>
-</div>
+[**Cloud-based Data Migration Tool**](https://github.com/yusuf-s-ahmed/Cloud-Data-Migration-Tool)  
+`Python`, `Django`, `RESTful API`, `FastAPI`, `HTML`, `CSS`, `React.js`, `Node.js`  
 
+[**NASA Mars Image Receiver**](https://github.com/yusuf-ahmed-5/NASA-Mars-Rover-Image-Receiver)  
+`Python`, `ThreadPoolExecutor`  
 
-### Data Science
-<div style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://github.com/yusuf-ahmed-5/Meta-Dataset-Analysis" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">A/B Testing & Analysing Meta's Ad Dataset</a>
-  <span style="font-size: 14px; color: #666;">| <i>Python, Pandas, Numpy, R, Excel</i></span>
-</div>
-<div style="height: 5px;"></div> <!-- Adjust the height here for spacing -->
+[**3D Interactive E-commerce Website**](https://github.com/yusuf-ahmed-5/3D-Ecommerce-Website)  
+`JavaScript`, `HTML`, `CSS`, `Blender`  
 
+---
 
-### Machine Learning / AI
-<div style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://github.com/yusuf-ahmed-5/Machine-Learning-Stock-Predictor" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">ML Stock Predictor</a>
-  <span style="font-size: 14px; color: #666;">| <i>Python, TensorFlow, Scikit-Learn, Matplotlib, Pandas</i></span>
-</div>
-<div style="height: 5px;"></div> <!-- Adjust the height here for spacing -->
-<div style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://github.com/yusuf-ahmed-5/AI-Customer-Service-ChatBot" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">AI Customer Service Chatbot</a>
-  <span style="font-size: 14px; color: #666;">| <i>Python, OllamaLLM, LangChain</i></span>
-</div>
+### Data Science  
+
+[**A/B Testing & Analysing Meta's Ad Dataset**](https://github.com/yusuf-ahmed-5/Meta-Dataset-Analysis)  
+`Python`, `Pandas`, `Numpy`, `R`, `Excel`  
+
+---
+
+### Machine Learning / AI  
+
+[**ML Stock Predictor**](https://github.com/yusuf-ahmed-5/Machine-Learning-Stock-Predictor)  
+`Python`, `TensorFlow`, `Scikit-Learn`, `Matplotlib`, `Pandas`  
+
+[**AI Customer Service Chatbot**](https://github.com/yusuf-ahmed-5/AI-Customer-Service-ChatBot)  
+ `Python`, `OllamaLLM`, `LangChain`  
 
 
 
