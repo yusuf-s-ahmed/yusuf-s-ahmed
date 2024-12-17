@@ -2,14 +2,14 @@
 
 <code>Cloud & Software Engineer</code>
 <br><br>
-I’m a computer science student from the UK, who is passionate about creating solutions for real-world problems and offer a broad range of digital services. These include software development, data analysis & web development. I bring proven experience to each of these fields.
+I'm a Computer Science BSc who has proven experience in cloud technologies and development. Right now, I'm working on upskilling my knowledge of cloud architecture by pursuing certifications. 
 
 
-- 🔭 I’m currently an intern at a private physiotherapy clinic as a cloud & software engineer.
+- 🔭 I'm currently interning at a private physiotherapy clinic as a Cloud & Software Engineer
 
-- 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/yusuf-s-ahmed)
+- 📄 Reach out to me: [LinkedIn](https://www.linkedin.com/in/yusuf-s-ahmed)
 
-- ⚡ Fun fact: **I have been offering freelance video editing services since I was 13.**
+- ☁️ I am open to contributing to cloud-based projects  
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
