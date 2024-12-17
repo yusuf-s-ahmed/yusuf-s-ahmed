@@ -74,25 +74,19 @@ I'm a Computer Science BSc who has proven experience in cloud technologies and d
 
 <!-- Back-End Development -->
 <h4 align="left">Back-End Development</h4>
-<code>Python</code>, <code>Flask</code>, <code>Django</code>, <code>FastAPI</code>, <code>MySQL</code>
+<code>Python</code>, <code>Flask</code>, <code>Django</code>, <code>Java</code>, <code>FastAPI</code>, <code>MySQL</code>, <code>MongoDB</code>
 
 <!-- Front-End Development -->
 <h4 align="left">Front-End Development</h4>
-<code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>
+<code>React.js</code> <code>Next.js</code>
 
 <!-- Data Science & Machine Learning -->
 <h4 align="left">Data Science & Machine Learning</h4>
-<code>Pandas</code>, <code>NumPy</code>, <code>Scikit-Learn</code>, <code>TensorFlow</code>, <code>PyTorch</code>
+<code>Pandas</code>, <code>NumPy</code>, <code>Scikit-Learn</code>, <code>TensorFlow</code>, <code>PyTorch</code>, <code>LangChain</code>
 
 <!-- Creative Tools -->
 <h4 align="left">Creative Tools</h4>
-<code>Figma</code>, <code>Blender</code>
-
-<!-- Version Control -->
-<h4 align="left">Version Control</h4>
-<code>Git</code>
-
-
+<code>Figma</code>, <code>Blender</code>, <code>Photoshop</code>
 
 
 ## 
