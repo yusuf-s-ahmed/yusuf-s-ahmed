@@ -22,7 +22,10 @@ I'm a Computer Science BSc who has proven experience in cloud technologies and d
 
 ### Vital Therapy
 Cloud & Software Engineer Intern
-
+<div style="display: flex; align-items: center; gap: 10px;">
+  <a href="https://github.com/yusuf-s-ahmed/Physio-Assignment-Platform" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">Automated Physio Rehab Assignment Platform & Patient Database Management</a>
+  <span style="font-size: 14px; color: #666;">| <i>Python, SendGridAPI, MySQL, Streamlit, CSS</i></span>
+</div>
 
 
 
