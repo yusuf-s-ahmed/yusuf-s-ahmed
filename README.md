@@ -1,4 +1,4 @@
-<h2 align="left">💻 Yusuf Salman Ahmed</h2>
+<h2 align="left">Yusuf Salman Ahmed</h2>
 
 <code>Cloud & Software Engineer</code>
 <br><br>
