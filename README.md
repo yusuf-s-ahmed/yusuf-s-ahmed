@@ -23,17 +23,17 @@ I'm a Computer Science BSc who has proven experience in cloud technologies and d
 ### Vital Therapy  
 **Cloud & Software Engineer Intern**  
 [**Automated Physio Rehab Assignment Platform & Patient Database Management**](https://github.com/yusuf-s-ahmed/Physio-Assignment-Platform)  
-*Technologies:* `Python`, `SendGrid API`, `MySQL`, `Streamlit`, `CSS`  
+`Python`, `SendGrid API`, `MySQL`, `Streamlit`, `CSS`  
 
 ### Heart Guard  
 **Software Engineer**  
 [**Autonomous, AI-driven Emergency Alert Medical Intervention Platform**](https://github.com/yusuf-s-ahmed/HeartGuard)  
-*Technologies:* `Python`, `C++`, `OpenAI API`, `Twilio API`, `CSS`  
+`Python`, `C++`, `OpenAI API`, `Twilio API`, `CSS`  
 
 ### Shopify Developer  
 **Back-End Software Engineer**  
 [**Shopify Licence Key System**](https://github.com/yusuf-ahmed-5/Shopify-Theme-Security-System/tree/main)  
-*Technologies:* `Python`, `Flask`, `JavaScript`, `SQL`, `HTML`, `CSS`  
+`Python`, `Flask`, `JavaScript`, `SQL`, `HTML`, `CSS`  
 
 
 
