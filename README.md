@@ -35,7 +35,6 @@ I'm a Computer Science BSc who has proven experience in cloud technologies and d
 [**Shopify Licence Key System**](https://github.com/yusuf-ahmed-5/Shopify-Theme-Security-System/tree/main)  
 *Python, Flask, JavaScript, SQL, HTML, CSS*  
 
----
 
 ## Projects  
 
