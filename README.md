@@ -2,7 +2,7 @@
 
 <code>Cloud & Software Engineer</code>
 <br><br>
-I'm a Computer Science BSc who has proven experience in cloud technologies and development. Right now, I'm working on upskilling my knowledge of cloud architecture by pursuing certifications. 
+I'm a Computer Science BSc who has proven experience in cloud technologies and development. Currently, I'm working on upskilling my knowledge of cloud architecture by pursuing certifications. 
 
 
 - 🔭 I'm currently interning at a private physiotherapy clinic as a Cloud & Software Engineer
