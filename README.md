@@ -2,14 +2,14 @@
 
 <code>Cloud & Software Engineer</code>
 <br><br>
-I'm a Computer Science BSc who has proven experience in cloud technologies and development. Right now, I'm working on upskilling my knowledge of cloud architecture by pursuing certifications. 
+I'm a Computer Science BSc who has proven experience in Cloud Technologies and Development. Right now, I'm working on upskilling my knowledge of Cloud Architecture by pursuing certifications. 
 
 
-- 🔭 I'm currently interning at a private physiotherapy clinic as a Cloud & Software Engineer
+- 🔭 I'm currently interning at a Private Physiotherapy Clinic as a Cloud & Software Engineer
 
 - 📄 Reach out to me: [LinkedIn](https://www.linkedin.com/in/yusuf-s-ahmed)
 
-- ☁️ I am open to contributing to cloud-based projects  
+- ☁️ I am open to contributing to Cloud-based Projects  
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
