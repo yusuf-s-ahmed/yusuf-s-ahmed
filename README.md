@@ -23,49 +23,49 @@ I'm a Computer Science BSc who has proven experience in cloud technologies and d
 ### Vital Therapy  
 **Cloud & Software Engineer Intern**  
 [**Automated Physio Rehab Assignment Platform & Patient Database Management**](https://github.com/yusuf-s-ahmed/Physio-Assignment-Platform)  
-`Python`, `SendGrid API`, `MySQL`, `Streamlit`, `CSS`  
+*Python, SendGrid API, MySQL, Streamlit, CSS*  
 
 ### Heart Guard  
 **Software Engineer**  
 [**Autonomous, AI-driven Emergency Alert Medical Intervention Platform**](https://github.com/yusuf-s-ahmed/HeartGuard)  
-`Python`, `C++`, `OpenAI API`, `Twilio API`, `CSS`  
+*Python, C++, OpenAI API, Twilio API, CSS*  
 
 ### Shopify Developer  
 **Back-End Software Engineer**  
 [**Shopify Licence Key System**](https://github.com/yusuf-ahmed-5/Shopify-Theme-Security-System/tree/main)  
-`Python`, `Flask`, `JavaScript`, `SQL`, `HTML`, `CSS`  
+*Python, Flask, JavaScript, SQL, HTML, CSS*  
 
-
+---
 
 ## Projects  
 
 ### Software Development  
 
 [**Cloud-based Data Migration Tool**](https://github.com/yusuf-s-ahmed/Cloud-Data-Migration-Tool)  
-`Python`, `Django`, `RESTful API`, `FastAPI`, `HTML`, `CSS`, `React.js`, `Node.js`  
+*Python, Django, RESTful API, FastAPI, HTML, CSS, React.js, Node.js*  
 
 [**NASA Mars Image Receiver**](https://github.com/yusuf-ahmed-5/NASA-Mars-Rover-Image-Receiver)  
-`Python`, `ThreadPoolExecutor`  
+*Python, ThreadPoolExecutor*  
 
 [**3D Interactive E-commerce Website**](https://github.com/yusuf-ahmed-5/3D-Ecommerce-Website)  
-`JavaScript`, `HTML`, `CSS`, `Blender`  
+*JavaScript, HTML, CSS, Blender*  
 
 ---
 
 ### Data Science  
 
 [**A/B Testing & Analysing Meta's Ad Dataset**](https://github.com/yusuf-ahmed-5/Meta-Dataset-Analysis)  
-`Python`, `Pandas`, `Numpy`, `R`, `Excel`  
+*Python, Pandas, Numpy, R, Excel*  
 
 ---
 
 ### Machine Learning / AI  
 
 [**ML Stock Predictor**](https://github.com/yusuf-ahmed-5/Machine-Learning-Stock-Predictor)  
-`Python`, `TensorFlow`, `Scikit-Learn`, `Matplotlib`, `Pandas`  
+*Python, TensorFlow, Scikit-Learn, Matplotlib, Pandas*  
 
 [**AI Customer Service Chatbot**](https://github.com/yusuf-ahmed-5/AI-Customer-Service-ChatBot)  
- `Python`, `OllamaLLM`, `LangChain`  
+*Python, OllamaLLM, LangChain*  
 
 
 
