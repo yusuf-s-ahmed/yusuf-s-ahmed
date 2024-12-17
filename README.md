@@ -20,6 +20,8 @@ I'm a Computer Science BSc who has proven experience in cloud technologies and d
 
 ## Experience
 
+### Vital Therapy
+Cloud & Software Engineer Intern
 
 
 
