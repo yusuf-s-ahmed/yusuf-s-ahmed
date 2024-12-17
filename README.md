@@ -34,7 +34,7 @@ I'm a Computer Science BSc who has proven experience in cloud technologies and d
 </div>
 ### Shopify Developer
 #### <i>Back-End Software Engineer</i>
-<<div style="display: flex; align-items: center; gap: 10px;">
+<div style="display: flex; align-items: center; gap: 10px;">
   <a href="https://github.com/yusuf-ahmed-5/Shopify-Theme-Security-System/tree/main" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">Shopify Licence Key System</a>
   <span style="font-size: 14px; color: #666;">| <i>Python, Flask, JavaScript, SQL, HTML, CSS</i></span>
 </div>
