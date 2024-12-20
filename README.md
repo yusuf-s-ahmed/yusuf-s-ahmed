@@ -106,6 +106,5 @@ I'm a Computer Science BSc who has proven experience in cloud technologies and d
 <table>
   <tr>
     <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yusuf-s-ahmed&show_icons=true&locale=en&layout=compact&hide_title=true&theme=dark" alt="yusuf-s-ahmed" width="350" /></td>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusuf-s-ahmed&hide_title=true&theme=dark" alt="yusuf-s-ahmed" width="400" /></td>
   </tr>
 </table>
