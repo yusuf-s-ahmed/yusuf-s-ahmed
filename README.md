@@ -5,7 +5,7 @@
 I'm a Computer Science BSc who has proven experience in cloud technologies and development (AWS, GCP & Azure). Currently, I'm working on upskilling my knowledge of cloud architecture by pursuing certifications and learning DevOps tools.
 
 
-- 🔭 I have worked at a private physiotherapy clinic as a cloud infrastructure engineer.
+- 🔭 I have worked at a private physiotherapy clinic as a cloud infrastructure engineer
 
 - 📄 Reach out to me: [LinkedIn](https://www.linkedin.com/in/yusuf-s-ahmed)
 
