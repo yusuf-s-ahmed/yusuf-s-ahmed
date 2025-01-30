@@ -20,13 +20,13 @@ I'm a Computer Science BSc who has proven experience in development with Python,
 ## Experience  
 
 ### Vital Therapy  
-**Cloud & Software Engineer Intern**  
+**Software Developer Intern**  
 [**Automated Physio Rehab Assignment Platform & Patient Database Management**](https://github.com/yusuf-s-ahmed/Physio-Assignment-Platform)  
 *Python, SendGrid API, MySQL, Streamlit, CSS*  
 
 
-### Shopify Developer  
-**Software Developer**  
+### Shopify  
+**Freelance Software Developer**  
 [**Shopify Licence Key System**](https://github.com/yusuf-ahmed-5/Shopify-Theme-Security-System/tree/main)  
 
 
