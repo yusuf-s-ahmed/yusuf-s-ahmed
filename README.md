@@ -1,15 +1,14 @@
 <h2 align="left">Yusuf Salman Ahmed</h2>
 
-<code>Cloud & Software Engineer</code>
+<code>Developer</code>
 <br><br>
-I'm a Computer Science BSc who has proven experience in cloud technologies and development (AWS, GCP & Azure). Currently, I'm working on upskilling my knowledge of cloud architecture by pursuing certifications and learning DevOps tools.
+I'm a Computer Science BSc who has proven experience in development with Python, Java, SQL, AWS. Currently, I'm working on gaining knowledge in development and finance.
 
+- I have worked at a private physiotherapy clinic as a software developer intern
 
-- 🔭 I have worked at a private physiotherapy clinic as a cloud infrastructure engineer
+- Reach out to me: [LinkedIn](https://www.linkedin.com/in/yusuf-s-ahmed)
 
-- 📄 Reach out to me: [LinkedIn](https://www.linkedin.com/in/yusuf-s-ahmed)
-
-- ☁️ I am open to contributing to cloud-based projects  
+- I am open to contributing to projects  
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,23 +24,20 @@ I'm a Computer Science BSc who has proven experience in cloud technologies and d
 [**Automated Physio Rehab Assignment Platform & Patient Database Management**](https://github.com/yusuf-s-ahmed/Physio-Assignment-Platform)  
 *Python, SendGrid API, MySQL, Streamlit, CSS*  
 
-### Heart Guard  
-**Software Engineer**  
-[**Autonomous, AI-driven Emergency Alert Medical Intervention Platform**](https://github.com/yusuf-s-ahmed/HeartGuard)  
-*Python, C++, OpenAI API, Twilio API, CSS*  
 
 ### Shopify Developer  
-**Cloud Security Engineer**  
+**Software Developer**  
 [**Shopify Licence Key System**](https://github.com/yusuf-ahmed-5/Shopify-Theme-Security-System/tree/main)  
-*Python, Flask, JavaScript, SQL, HTML, CSS*  
 
 
 ## Projects  
 
 
-
 [**Cloud-based Data Migration Tool**](https://github.com/yusuf-s-ahmed/Cloud-Data-Migration-Tool)  
 *Python, Django, RESTful API, FastAPI, HTML, CSS, React.js, Node.js*  
+
+[**Autonomous, AI-driven Emergency Alert Medical Intervention Platform**](https://github.com/yusuf-s-ahmed/HeartGuard)  
+*Python, C++, OpenAI API, Twilio API, CSS*
 
 [**NASA Mars Image Receiver**](https://github.com/yusuf-ahmed-5/NASA-Mars-Rover-Image-Receiver)  
 *Python, ThreadPoolExecutor*  
