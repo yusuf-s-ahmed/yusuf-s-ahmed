@@ -4,7 +4,7 @@
 <br><br>
 I'm a Computer Science BSc who has proven experience in development with Python, Java, SQL, AWS. Currently, I'm working on gaining knowledge in development and finance.
 
-- I have worked at a private physiotherapy clinic as a software developer intern
+- Past experience at a private physiotherapy clinic, freelance and hackathons
 
 - Reach out to me: [LinkedIn](https://www.linkedin.com/in/yusuf-s-ahmed)
 
