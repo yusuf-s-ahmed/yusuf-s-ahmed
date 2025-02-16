@@ -21,8 +21,7 @@ I'm a Computer Science BSc who has proven experience in development with Python,
 
 ### Vital Therapy  
 **Software Developer Intern**  
-**Automated Physio Rehab Assignment Platform & Patient Database Management**
-*Java, Spring Boot, MySQL, AWS, Python 
+*Automated Physio Rehab Assignment Platform & Patient Database Management*
 
 
 ### Shopify  
