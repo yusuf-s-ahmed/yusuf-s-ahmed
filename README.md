@@ -69,7 +69,7 @@ I'm a Computer Science BSc who has proven experience in development with Python,
 
 <!-- Back-End Development -->
 <h4 align="left">Back-End Development</h4>
-<code>Java</code>, <code>Spring Boot</code>, <code>Python</code>, <code>Flask</code>, <code>Django</code>, <code>Java</code>, <code>FastAPI</code>, <code>MySQL</code>, <code>MongoDB</code>
+<code>Java</code>, <code>Spring Boot</code>, <code>Python</code>, <code>Flask</code>, <code>Django</code>, <code>FastAPI</code>, <code>MySQL</code>, <code>MongoDB</code>
 
 <!-- Front-End Development -->
 <h4 align="left">Front-End Development</h4>
