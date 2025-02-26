@@ -2,7 +2,7 @@
 
 <code>Developer</code>
 <br><br>
-I'm a Computer Science BSc who has proven experience in development with Python, Java, SQL, AWS. Currently, I'm working on gaining knowledge in development and finance.
+I'm a first year Computer Science BSc at City, University of London who has experience with Java, Python, SQL, AWS.
 
 - Past experience at a private physiotherapy clinic, freelance and hackathons
 
