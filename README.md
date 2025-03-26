@@ -73,7 +73,7 @@ I'm a first year Computer Science BSc at City, University of London who has expe
 
 <!-- Front-End Development -->
 <h4 align="left">Front-End Development</h4>
-<code>React.js</code> <code>Next.js</code>
+<code>React.js</code>
 
 <!-- Data Science & Machine Learning -->
 <h4 align="left">Data Science & Machine Learning</h4>
