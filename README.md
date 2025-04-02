@@ -19,8 +19,8 @@ I'm a first year Computer Science BSc at City, University of London who has expe
 
 ## Experience  
 
-### Vital Therapy  
-**Software Developer Intern**  
+### Vital Therapy Ltd.  
+**Software Engineer Intern**  
 *Automated Physio Rehab Assignment Platform & Patient Database Management*
 
 
