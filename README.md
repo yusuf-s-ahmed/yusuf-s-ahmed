@@ -1,6 +1,6 @@
 <h2 align="left">Yusuf Salman Ahmed</h2>
 
-<code>Developer</code>
+<code>Student</code>
 <br><br>
 I'm a first year Computer Science BSc at City, University of London who has experience with Java, Python, SQL, AWS.
 
