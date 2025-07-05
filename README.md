@@ -26,7 +26,7 @@ I'm a second year Computer Science BSc student at City, University of London wit
 </p>
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusuf-s-ahmed" alt="yusuf-s-ahmed" /></a> </p>
 
