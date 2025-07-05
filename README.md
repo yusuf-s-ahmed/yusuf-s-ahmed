@@ -26,16 +26,3 @@ I'm a second year Computer Science BSc student at City, University of London wit
 </p>
 
 
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusuf-s-ahmed" alt="yusuf-s-ahmed" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yusuf-s-ahmed&show_icons=true&locale=en&layout=compact" alt="yusuf-s-ahmed" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusuf-s-ahmed&show_icons=true&locale=en" alt="yusuf-s-ahmed" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusuf-s-ahmed&" alt="yusuf-s-ahmed" /></p>
