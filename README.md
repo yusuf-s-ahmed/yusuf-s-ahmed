@@ -1,8 +1,8 @@
-<h3 align="left">About Me:</h3>
+<h3 align="left">About Me</h3>
 
 I'm a second year Computer Science BSc student at City, University of London with hands-on experience using Python, SQL, AWS, Excel and Tableau from freelance work and side projects. If you're interested in my work, reach out to me on [LinkedIn](https://www.linkedin.com/in/yusuf-s-ahmed).
 
-<h3 align="left">Repositories:</h3>
+<h3 align="left">Repositories</h3>
 
 [**A/B Testing & Analysing Meta's Ad Dataset**](https://github.com/yusuf-s-ahmed/Meta-Data-Analysis)  
 *Python, pandas, Numpy, R, Excel*  
@@ -17,7 +17,7 @@ I'm a second year Computer Science BSc student at City, University of London wit
 *Python, pandas, Plotly, C++*  
 
 
-<h3 align="left">Github Statistics:</h3>
+<h3 align="left">Github Statistics</h3>
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
