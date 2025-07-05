@@ -1,6 +1,6 @@
 I'm a second year Computer Science BSc student at City, University of London with hands-on experience using Python, SQL, AWS, Excel and Tableau from freelance work and side projects. If you're interested in my work, reach out to me on [LinkedIn](https://www.linkedin.com/in/yusuf-s-ahmed).
 
-Repositories 
+Repositories
 ---
 
 [**Cloud-based Data Migration Tool**](https://github.com/yusuf-s-ahmed/Cloud-Data-Migration-Tool)  
