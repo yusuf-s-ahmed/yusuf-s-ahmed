@@ -18,7 +18,8 @@ Repositories
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yusuf-s-ahmed&theme=dark_dimmed&column=2&title=Commits,Repositories" alt="yusuf-s-ahmed" />
+    <img src="https://github-profile-trophy.vercel.app/?username=yusuf-s-ahmed&theme=flat&column=2&title=Commits,Repositories" alt="yusuf-s-ahmed" />
   </a> 
 </p>
+
 
