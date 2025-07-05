@@ -4,15 +4,17 @@ I'm a second year Computer Science BSc student at City, University of London wit
 
 <h3 align="left">Repositories:</h3>
 
-[**Cloud-based Data Migration Tool**](https://github.com/yusuf-s-ahmed/Cloud-Data-Migration-Tool)  
-*Python, Django, RESTful API, FastAPI, HTML, CSS, React.js, Node.js*  
+[**A/B Testing & Analysing Meta's Ad Dataset**](https://github.com/yusuf-s-ahmed/Meta-Data-Analysis)  
+*Python, pandas, Numpy, R, Excel*  
 
+[**Cloud Database Migration & Replication Tool**](https://github.com/yusuf-s-ahmed/Cloud-Data-Migration-Tool)  
+*Python, Django, SQL, FastAPI, React.js*  
 
-[**A/B Testing & Analysing Meta's Ad Dataset**](https://github.com/yusuf-ahmed-5/Meta-Dataset-Analysis)  
-*Python, Pandas, Numpy, R, Excel*  
+[**Licence Key Security System**](https://github.com/yusuf-s-ahmed/Licence-Key-System)  
+*Python, Flask, MySQL, AWS*  
 
-
-
+[**Medical Diagnostics Analysis**](https://github.com/yusuf-s-ahmed/Medical-Diagnostics-Analysis)  
+*Python, pandas, Plotly, C++*  
 
 
 <h3 align="left">Github Statistics:</h3>
