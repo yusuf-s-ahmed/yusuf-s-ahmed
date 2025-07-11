@@ -2,6 +2,9 @@
 
 I'm a second year Computer Science BSc student at City, University of London with hands-on experience using Python, SQL, AWS, Excel and Tableau from freelance work and side projects. If you're interested in my work, reach out to me.
 
+[**Portfolio**](https://www.medium.com/@yusufahmed101)  
+[**LinkedIn**](https://www.linkedin.com/in/yusuf-s-ahmed)
+
 <h3 align="left">Repositories</h3>
 
 [**A/B Testing & Analysing Meta's Ad Dataset**](https://github.com/yusuf-s-ahmed/Meta-Data-Analysis)  
@@ -16,7 +19,6 @@ I'm a second year Computer Science BSc student at City, University of London wit
 [**Medical Diagnostics Analysis**](https://github.com/yusuf-s-ahmed/Medical-Diagnostics-Analysis)  
 *Python, pandas, Plotly, C++*  
 
-
 <h3 align="left">Github Statistics</h3>
 
 <p align="left"> 
@@ -24,11 +26,3 @@ I'm a second year Computer Science BSc student at City, University of London wit
     <img src="https://github-profile-trophy.vercel.app/?username=yusuf-s-ahmed&theme=flat&column=2&title=Commits,Repositories" alt="yusuf-s-ahmed" />
   </a> 
 </p>
-
-
-<h3 align="left">Links</h3>
-
-
-[**Portfolio**](https://www.medium.com/@yusufahmed101)
-<p></p>
-[**LinkedIn**](https://www.linkedin.com/in/yusuf-s-ahmed)  
