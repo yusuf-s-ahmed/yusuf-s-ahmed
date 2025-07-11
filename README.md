@@ -1,6 +1,6 @@
 <h3 align="left">About Me</h3>
 
-I'm a second year Computer Science BSc student at City, University of London with hands-on experience using Python, SQL, AWS, Excel and Tableau from freelance work and side projects. If you're interested in my work, reach out to me on [LinkedIn](https://www.linkedin.com/in/yusuf-s-ahmed).
+I'm a second year Computer Science BSc student at City, University of London with hands-on experience using Python, SQL, AWS, Excel and Tableau from freelance work and side projects. If you're interested in my work, reach out to me.
 
 <h3 align="left">Repositories</h3>
 
@@ -26,3 +26,8 @@ I'm a second year Computer Science BSc student at City, University of London wit
 </p>
 
 
+<h3 align="left">Links</h3>
+
+
+[**Portfolio**](https://www.medium.com/@yusufahmed101)
+[**LinkedIn**](https://www.linkedin.com/in/yusuf-s-ahmed)  
