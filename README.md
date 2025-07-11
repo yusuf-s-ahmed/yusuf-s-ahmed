@@ -2,7 +2,7 @@
 
 I'm a second year Computer Science BSc student at City, University of London with hands-on experience using Python, SQL, AWS, Excel and Tableau from freelance work and side projects. If you're interested in my work, reach out to me.
 
-[**Portfolio**](https://www.medium.com/@yusufahmed101)<br></br>
+[**Portfolio**](https://www.medium.com/@yusufahmed101)<br>
 [**LinkedIn**](https://www.linkedin.com/in/yusuf-s-ahmed)
 
 <h3 align="left">Repositories</h3>
