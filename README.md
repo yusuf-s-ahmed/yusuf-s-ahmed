@@ -30,5 +30,5 @@ I'm a second year Computer Science BSc student at City, University of London wit
 
 
 [**Portfolio**](https://www.medium.com/@yusufahmed101)
-<p>
+<p></p>
 [**LinkedIn**](https://www.linkedin.com/in/yusuf-s-ahmed)  
