@@ -7,7 +7,8 @@ I'm a second year Computer Science BSc student at City, University of London wit
 
 <h3 align="left">Repositories</h3>
 
-[**Legal Compliance Assessment Engine**](https://github.com/yusuf-s-ahmed/Legal-Compliance-Assessment-Engine)
+[**Legal Compliance Assessment Engine**]
+(https://github.com/yusuf-s-ahmed/Legal-Compliance-Assessment-Engine)
 *Python, PyTorch, transformers, scikit-learn*  
 
 [**A/B Testing & Analysing Meta's Ad Dataset**](https://github.com/yusuf-s-ahmed/Meta-Data-Analysis)  
