@@ -7,6 +7,8 @@ I'm a second year Computer Science BSc student at City, University of London wit
 
 <h3 align="left">Repositories</h3>
 
+[**Financial Outflow ETL Pipeline**](https://github.com/yusuf-s-ahmed/Financial-Outflow-ETL-Pipeline)  
+*Python, Apache Spark (PySpark), pandas, Terraform, AWS*  
 
 [**A/B Testing & Analysing Meta's Ad Dataset**](https://github.com/yusuf-s-ahmed/Meta-Data-Analysis)  
 *Python, pandas, Numpy, R, Excel*  
