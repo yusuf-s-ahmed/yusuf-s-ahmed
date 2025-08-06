@@ -1,6 +1,6 @@
 <h3 align="left">About Me</h3>
 
-I'm a second year Computer Science BSc student at City, University of London with hands-on experience using Python, SQL, AWS, Excel and Tableau from freelance work and side projects. If you're interested in my work, reach out to me.
+I'm a second year Computer Science BSc student at City, University of London with hands-on experience in developing data driven applications and programs from past experience and side projects. If you're interested in my work, reach out to me.
 
 - [**Portfolio**](https://www.medium.com/@yusufahmed101)<br>
 - [**LinkedIn**](https://www.linkedin.com/in/yusuf-s-ahmed)
@@ -8,7 +8,7 @@ I'm a second year Computer Science BSc student at City, University of London wit
 <h3 align="left">Repositories</h3>
 
 [**Financial Outflow ETL Pipeline**](https://github.com/yusuf-s-ahmed/Financial-Outflow-ETL-Pipeline)  
-*Python, Apache Spark (PySpark), pandas, Terraform, AWS*  
+*Python, Apache Spark (PySpark), pandas, Terraform, AWS, Airflow*  
 
 [**A/B Testing & Analysing Meta's Ad Dataset**](https://github.com/yusuf-s-ahmed/Meta-Data-Analysis)  
 *Python, pandas, Numpy, R, Excel*  
