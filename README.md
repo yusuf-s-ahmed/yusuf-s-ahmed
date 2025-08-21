@@ -10,19 +10,19 @@ I'm a second year Computer Science BSc student at City, University of London. I 
 [**UK Energy & Financial Markets Portfolio Analysis**](https://github.com/yusuf-s-ahmed/Financial-Portfolio-Analysis)  
 *Python, pandas, SQL, Excel*  
 
-[**Financial Outflow ETL Pipeline**](https://github.com/yusuf-s-ahmed/Financial-Outflow-ETL-Pipeline)  
+[**Pre-operating Financial Expenses ETL Pipeline**](https://github.com/yusuf-s-ahmed/Financial-Outflow-ETL-Pipeline)  
 *Python, Apache Spark (PySpark), pandas, Terraform, AWS, Airflow*  
 
 [**A/B Testing & Analysing Meta's Ad Dataset**](https://github.com/yusuf-s-ahmed/Meta-Data-Analysis)  
 *Python, pandas, Numpy, R, Excel*  
 
-[**Cloud Database Migration & Replication Tool**](https://github.com/yusuf-s-ahmed/Cloud-Data-Migration-Tool)  
+[**Data Migration & Replication Platform**](https://github.com/yusuf-s-ahmed/Cloud-Data-Migration-Tool)  
 *Python, Django, SQL, FastAPI, React.js*  
 
 [**Licence Key Security System**](https://github.com/yusuf-s-ahmed/Licence-Key-System)  
 *Python, Flask, MySQL, AWS*  
 
-[**Medical Diagnostics Analysis**](https://github.com/yusuf-s-ahmed/Medical-Diagnostics-Analysis)  
+[**IoT Real-time Medical Diagnostics Analysis**](https://github.com/yusuf-s-ahmed/Medical-Diagnostics-Analysis)  
 *Python, pandas, Plotly, C++*  
 
 <h3 align="left">Github Statistics</h3>
