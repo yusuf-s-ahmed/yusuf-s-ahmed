@@ -22,7 +22,7 @@ I'm a second year Computer Science BSc student at City, University of London. I 
 [**Licence Key Security System**](https://github.com/yusuf-s-ahmed/Licence-Key-System)  
 *Python, Flask, MySQL, AWS*  
 
-[**Real-time IoT Electrocardiography Medical Diagnostics Platform**](https://github.com/yusuf-s-ahmed/Medical-Diagnostics-Analysis)  
+[**Real-time IoT Medical Diagnostics Platform**](https://github.com/yusuf-s-ahmed/Medical-Diagnostics-Analysis)  
 *Python, pandas, Plotly, C++*  
 
 <h3 align="left">Github Statistics</h3>
