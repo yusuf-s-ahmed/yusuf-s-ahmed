@@ -7,8 +7,8 @@ I'm a second year Computer Science BSc student at City, University of London. I 
 
 <h3 align="left">Repositories</h3>
 
-[**UK Energy & Financial Markets Portfolio Analysis**](https://github.com/yusuf-s-ahmed/Financial-Portfolio-Analysis)  
-*Python, pandas, SQL, Excel*  
+[**Portfolio Risk & Investment Analysis of UK Equities**](https://github.com/yusuf-s-ahmed/Portfolio-Risk-Investment-Analysis-of-UK-Equities)  
+*Python (pandas, NumPy), SQL, Excel, Power BI*  
 
 [**Pre-Operating Financial Expenses ETL Pipeline**](https://github.com/yusuf-s-ahmed/Financial-Outflow-ETL-Pipeline)  
 *Python, Apache Spark (PySpark), pandas, Terraform, AWS, Airflow*  
