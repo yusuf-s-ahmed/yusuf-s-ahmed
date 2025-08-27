@@ -26,6 +26,6 @@ I'm a second year Computer Science BSc student at City, University of London. I 
 *Python, pandas, Plotly, C++*  
 
 <h3 align="left">Github Statistics</h3>
+[![trophy](https://github-profile-trophy.vercel.app/?username=yusuf-s-ahmed&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yusuf-s-ahmed&theme=gruvbox_light)](https://github.com/ryo-ma/github-profile-trophy)
 
