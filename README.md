@@ -7,6 +7,9 @@ I'm a second year Computer Science BSc student at City, University of London. I 
 
 <h3 align="left">Repositories</h3>
 
+[**Valuation & M&A Analysis of Barclays & Kensington Mortgages**]([https://github.com/yusuf-s-ahmed/Portfolio-Risk-Investment-Analysis-of-UK-Equities](https://github.com/yusuf-s-ahmed/Valuation-and-Acquisition-Analysis-of-Barclays-and-Kensington-Mortgages)  
+*Python (pandas), Excel*  
+
 [**Portfolio Risk & Investment Analysis of UK Equities**](https://github.com/yusuf-s-ahmed/Portfolio-Risk-Investment-Analysis-of-UK-Equities)  
 *Python (pandas, NumPy), SQL, Excel, Power BI*  
 
