@@ -30,7 +30,8 @@ I'm a second year Computer Science BSc student at City, University of London. I 
 
 <h3 align="left">Github Statistics</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yusuf-s-ahmed&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yusuf-s-ahmed&theme=flat&title=Commits,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
