@@ -1,6 +1,6 @@
 <h3 align="left">About Me</h3>
 
-I'm a second year Computer Science BSc student at City, University of London. I develop data-driven systems using industry-standard tools and technologies that I've picked up from past experience and side projects. If you're interested in my work, reach out to me.
+I'm a second year Computer Science BSc student at City, University of London. I develop technical projects using tools and technologies that I've picked up from past experience and side projects. If you're interested in my work, reach out to me.
 
 - [**Portfolio**](https://www.medium.com/@yusufahmed101)<br>
 - [**LinkedIn**](https://www.linkedin.com/in/yusuf-s-ahmed)
