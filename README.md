@@ -1,7 +1,9 @@
 <h3 align="left">About Me</h3>
 
 I am a 2nd-year Computer Science student at City, University of London with experience across AI, healthcare, legal, and finance technology through roles at three startups and personal projects in asset management, risk, valuation, and M&A. 
+
 My work includes building operational software for a London physiotherapy clinic, contributing to an academic research project applying LLMs to molecular biology, and competing in challenges such as Google’s 2024 Gemma-2 AI competition and the IEEE City Robotics Hack-a-Health.
+
 As a Microsoft Mentee (Embrace ERG) and former mathematics tutor, I also enjoy sharing knowledge through technical articles on Medium and documenting my projects on GitHub.
 
 - [**Portfolio**](https://www.medium.com/@yusufahmed101)<br>
