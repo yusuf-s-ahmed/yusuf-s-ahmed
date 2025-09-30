@@ -13,7 +13,7 @@ I am a 2nd-year Computer Science student at City, University of London with expe
 [**Valuation & M&A Analysis of Barclays & Kensington Mortgages**](https://github.com/yusuf-s-ahmed/Valuation-and-Acquisition-Analysis-of-Barclays-and-Kensington-Mortgages)  
 *Python (pandas), Excel*  
 
-[**Portfolio Risk & Investment Analysis of UK Equities**](https://github.com/yusuf-s-ahmed/Portfolio-Risk-Investment-Analysis-of-UK-Equities)  
+[**Research & Analysis of Portfolio Risk in UK & Global Equities**](https://github.com/yusuf-s-ahmed/Portfolio-Risk-Investment-Analysis-of-UK-Equities)  
 *Python (pandas, NumPy), SQL, Excel, Power BI*  
 
 [**Pre-Operating Financial Expenses ETL Pipeline**](https://github.com/yusuf-s-ahmed/Financial-Outflow-ETL-Pipeline)  
