@@ -2,19 +2,21 @@
 
 I’m a 2nd year Computer Science student at City, University of London, interested in Technology.
 
-Currently interning at an Al research and development firm based in the US, as a Solutions Developer Intern.
+Highlights:
 
-Worked two freelance roles as a Data Analyst and a Software Engineer at startups based in London, in the legal and healthcare sector.
+- Currently interning at an Al research and development firm based in the US, as a Solutions Developer Intern.
 
-Selected to volunteer as a Lab Research Participant for an academic research project by the School of Science and Technology at City, University of London.
+- Worked two freelance roles as a Data Analyst and a Software Engineer at startups based in London, in the legal and healthcare sector.
 
-Built a portfolio of projects on GitHub and write technical articles on Medium involving data analytics, software development and financial research.
+- Selected to volunteer as a Lab Research Participant for an academic research project by the School of Science and Technology at City, University of London.
 
-Mentored by professionals at Microsoft for eight weeks as part of Embrace ERG, a structured career development programme.
+- Built a portfolio of projects on GitHub and write technical articles on Medium involving data analytics, software development and financial research.
 
-Volunteered as a Mathematics Student Mentor at Townley Grammar School.
+- Mentored by professionals at Microsoft for eight weeks as part of Embrace ERG, a structured career development programme.
 
-Competed in IEEE City Robotics Society’s Hack-a-Health and Google’s Gemma-2 AI competition.
+- Volunteered as a Mathematics Student Mentor at Townley Grammar School.
+
+- Competed in IEEE City Robotics Society’s Hack-a-Health and Google’s Gemma-2 AI competition.
 
 - [**Portfolio**](https://www.medium.com/@yusufahmed101)<br>
 - [**LinkedIn**](https://www.linkedin.com/in/yusuf-s-ahmed)
