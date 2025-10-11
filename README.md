@@ -1,10 +1,20 @@
 <h3 align="left">About Me</h3>
 
-I am a 2nd-year Computer Science student at City, University of London with experience across AI, healthcare, legal, and finance technology through roles at three startups and personal projects in asset management, risk, valuation, and M&A. 
+I’m a 2nd year Computer Science student at City, University of London, interested in Technology.
 
-My work includes building operational software for a London physiotherapy clinic, contributing to an academic research project applying LLMs to molecular biology, and competing in challenges such as Google’s 2024 Gemma-2 AI competition and the IEEE City Robotics Hack-a-Health.
+Currently interning at an Al research and development firm based in the US, as a Solutions Developer Intern.
 
-As a Microsoft Mentee (Embrace ERG) and former mathematics tutor, I also enjoy sharing knowledge through technical articles on Medium and documenting my projects on GitHub.
+Worked two freelance roles as a Data Analyst and a Software Engineer at startups based in London, in the legal and healthcare sector.
+
+Selected to volunteer as a Lab Research Participant for an academic research project by the School of Science and Technology at City, University of London.
+
+Built a portfolio of projects on GitHub and write technical articles on Medium involving data analytics, software development and financial research.
+
+Mentored by professionals at Microsoft for eight weeks as part of Embrace ERG, a structured career development programme.
+
+Volunteered as a Mathematics Student Mentor at Townley Grammar School.
+
+Competed in IEEE City Robotics Society’s Hack-a-Health and Google’s Gemma-2 AI competition.
 
 - [**Portfolio**](https://www.medium.com/@yusufahmed101)<br>
 - [**LinkedIn**](https://www.linkedin.com/in/yusuf-s-ahmed)
