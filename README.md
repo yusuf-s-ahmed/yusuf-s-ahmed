@@ -14,7 +14,7 @@ Highlights:
 
 - Mentored by professionals at Microsoft for eight weeks as part of Embrace ERG, a structured career development programme.
 
-- Volunteered as a Mathematics Student Mentor at Townley Grammar School.
+- Volunteered as a Mathematics Student Mentor at Townley Grammar School, hosting weekly tutoring sessions.
 
 - Competed in IEEE City Robotics Society’s Hack-a-Health and Google’s Gemma-2 AI competition.
 
