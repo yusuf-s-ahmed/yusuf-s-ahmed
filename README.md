@@ -4,6 +4,8 @@ I’m a 2nd year Computer Science student at City, University of London, interes
 
 Highlights:
 
+- Working as a Technology Analyst at a student-led organisation at City, University of London.
+
 - Currently interning at an Al research and development firm based in the US, as a Solutions Developer Intern.
 
 - Worked two freelance roles as a Data Analyst and a Software Engineer at startups based in London, in the legal and healthcare sector.
