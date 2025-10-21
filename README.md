@@ -20,7 +20,7 @@ Highlights:
 
 - Competed in IEEE City Robotics Society’s Hack-a-Health and Google’s Gemma-2 AI competition.
 
-<hr style="border: 0.5px solid black; background-color: black; height: 1px;">
+***
 
 <h3 align="left">Links</h3>
 
