@@ -20,14 +20,13 @@ Highlights:
 
 - Competed in IEEE City Robotics Society’s Hack-a-Health and Google’s Gemma-2 AI competition.
 
----
 
 <h3 align="left">Links</h3>
 
 - [**Portfolio**](https://www.medium.com/@yusufahmed101)<br>
 - [**LinkedIn**](https://www.linkedin.com/in/yusuf-s-ahmed)
 
----
+
 
 <h3 align="left">Open-Source Projects</h3>
 
