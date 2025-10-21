@@ -26,7 +26,7 @@ Highlights:
 - [**Portfolio**](https://www.medium.com/@yusufahmed101)<br>
 - [**LinkedIn**](https://www.linkedin.com/in/yusuf-s-ahmed)
 
-___
+***
 
 <h3 align="left">Open-Source Projects</h3>
 
