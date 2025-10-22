@@ -31,6 +31,9 @@ Highlights:
 
 <h3 align="left">Open-Source Projects</h3>
 
+[**Financial Stock Candlestick Data Visualiser**](https://github.com/yusuf-s-ahmed/Stock-Visualiser)  
+*Python, yfinance, matplotlib, mplfinance*  
+
 [**Multi-Agent AI Finance System**](https://github.com/yusuf-s-ahmed/Multi-AI-Agent-System)  
 *Python, Ollama, yfinance, BeautifulSoup, pandas*  
 
