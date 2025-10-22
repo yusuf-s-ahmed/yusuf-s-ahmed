@@ -20,14 +20,10 @@ Highlights:
 
 - Competed in IEEE City Robotics Society’s Hack-a-Health and Google’s Gemma-2 AI competition.
 
-***
-
 <h3 align="left">Links</h3>
 
 - [**Portfolio**](https://www.medium.com/@yusufahmed101)<br>
 - [**LinkedIn**](https://www.linkedin.com/in/yusuf-s-ahmed)
-
-***
 
 <h3 align="left">Open-Source Projects</h3>
 
@@ -37,7 +33,6 @@ Highlights:
 [**Multi-Agent AI Finance System**](https://github.com/yusuf-s-ahmed/Multi-AI-Agent-System)  
 *Python, Ollama, yfinance, BeautifulSoup, pandas*  
 
-***
 
 <h3 align="left">Research Analysis Projects</h3>
 
@@ -47,7 +42,6 @@ Highlights:
 [**Research & Analysis of Portfolio Risk in UK & Global Equities**](https://github.com/yusuf-s-ahmed/Portfolio-Risk-Investment-Analysis-of-UK-Equities)  
 *Python (pandas, NumPy), SQL, Excel, Power BI*  
 
-***
 
 <h3 align="left">Personal Projects</h3>
 
@@ -66,7 +60,6 @@ Highlights:
 [**Real-time IoT Medical Diagnostics Platform**](https://github.com/yusuf-s-ahmed/Medical-Diagnostics-Analysis)  
 *Python, pandas, Plotly, C++*  
 
-***
 
 <h3 align="left">Github Statistics</h3>
 
