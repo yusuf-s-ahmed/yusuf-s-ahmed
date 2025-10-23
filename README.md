@@ -4,7 +4,7 @@ I’m a 2nd year Computer Science student at City, University of London, interes
 
 - Working as a Technology Analyst at a student-led organisation and a Student Ambassador at City, University of London.
 
-- Currently interning at an Al research and development firm based in the US, as a Solutions Developer Intern.
+- Currently a Solutions Developer Intern at an Al research and development firm based in the US.
 
 <h4 align="left">Open-Source</h4>
 
