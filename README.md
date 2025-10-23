@@ -2,7 +2,7 @@
 
 I’m a 2nd year Computer Science student at City, University of London, interested in Technology.
 
-- Working as a Technology Analyst at a student-led organisation and a Student Ambassador at City, University of London.
+- Working as a Technology Research Analyst at a student-led organisation and a Student Ambassador at City, University of London.
 
 - Currently a Solutions Developer Intern at an Al research and development firm based in the US.
 
