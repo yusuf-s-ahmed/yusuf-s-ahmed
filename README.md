@@ -26,13 +26,7 @@
 [**Data Migration & Replication Platform**](https://github.com/yusuf-s-ahmed/Cloud-Data-Migration-Tool)  
 *Python, Django, SQL, FastAPI, React.js*  
 
-[**Licence Key Security System**](https://github.com/yusuf-s-ahmed/Licence-Key-System)  
-*Python, Flask, MySQL, AWS*  
-
-[**Real-time IoT Medical Diagnostics Platform**](https://github.com/yusuf-s-ahmed/Medical-Diagnostics-Analysis)  
-*Python, pandas, Plotly, C++* 
-
-<h3 align="left">About Me</h3>
+<h4 align="left">About Me</h4>
 
 I’m a 2nd year Computer Science student at City, University of London, interested in Technology.
 
@@ -54,7 +48,7 @@ Highlights:
 
 - Competed in IEEE City Robotics Society’s Hack-a-Health and Google’s Gemma-2 AI competition.
 
-<h3 align="left">Links</h3>
+<h4 align="left">Links</h4>
 
 - [**Portfolio**](https://www.medium.com/@yusufahmed101)<br>
 - [**LinkedIn**](https://www.linkedin.com/in/yusuf-s-ahmed) 
