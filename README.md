@@ -7,7 +7,7 @@
 *Python, Ollama, yfinance, BeautifulSoup, pandas*  
 
 
-<h3 align="left">Research Analysis Projects</h3>
+<h4 align="left">Research & Analysis</h4>
 
 [**Valuation & M&A Analysis of Barclays & Kensington Mortgages**](https://github.com/yusuf-s-ahmed/Valuation-and-Acquisition-Analysis-of-Barclays-and-Kensington-Mortgages)  
 *Python (pandas), Excel*  
