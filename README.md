@@ -1,3 +1,7 @@
+<h4 align="left">About Me</h4>
+
+I’m a 2nd year Computer Science student at City, University of London, interested in Technology.
+
 <h4 align="left">Open-Source</h4>
 
 [**Stock Candlestick Data Visualiser**](https://github.com/yusuf-s-ahmed/Stock-Visualiser/tree/yusuf/update)  
@@ -26,11 +30,7 @@
 [**Data Migration & Replication Platform**](https://github.com/yusuf-s-ahmed/Cloud-Data-Migration-Tool)  
 *Python, Django, SQL, FastAPI, React.js*  
 
-<h4 align="left">About Me</h4>
-
-I’m a 2nd year Computer Science student at City, University of London, interested in Technology.
-
-Highlights:
+<h4 align="left">Highlights</h4>:
 
 - Working as a Technology Analyst at a student-led organisation at City, University of London.
 
