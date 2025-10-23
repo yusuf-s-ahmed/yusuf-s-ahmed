@@ -9,20 +9,19 @@
 
 <h4 align="left">Research & Analysis</h4>
 
-[**Valuation & M&A Analysis of Barclays & Kensington Mortgages**](https://github.com/yusuf-s-ahmed/Valuation-and-Acquisition-Analysis-of-Barclays-and-Kensington-Mortgages)  
-*Python (pandas), Excel*  
-
 [**Research & Analysis of Portfolio Risk in UK & Global Equities**](https://github.com/yusuf-s-ahmed/Portfolio-Risk-Investment-Analysis-of-UK-Equities)  
 *Python (pandas, NumPy), SQL, Excel, Power BI*  
 
+[**A/B Testing & Analysing Meta's Ad Dataset**](https://github.com/yusuf-s-ahmed/Meta-Data-Analysis)  
+*Python, pandas, Numpy, R, Excel*  
+
+[**Valuation & M&A Analysis of Barclays & Kensington Mortgages**](https://github.com/yusuf-s-ahmed/Valuation-and-Acquisition-Analysis-of-Barclays-and-Kensington-Mortgages)  
+*Python (pandas), Excel*  
 
 <h3 align="left">Personal Projects</h3>
 
 [**Pre-Operating Financial Expenses ETL Pipeline**](https://github.com/yusuf-s-ahmed/Financial-Outflow-ETL-Pipeline)  
 *Python, Apache Spark (PySpark), pandas, Terraform, AWS, Airflow*  
-
-[**A/B Testing & Analysing Meta's Ad Dataset**](https://github.com/yusuf-s-ahmed/Meta-Data-Analysis)  
-*Python, pandas, Numpy, R, Excel*  
 
 [**Data Migration & Replication Platform**](https://github.com/yusuf-s-ahmed/Cloud-Data-Migration-Tool)  
 *Python, Django, SQL, FastAPI, React.js*  
