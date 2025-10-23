@@ -1,4 +1,4 @@
-
+*Open-Source Projects*
 <h3 align="left">Open-Source Projects</h3>
 
 [**Stock Candlestick Data Visualiser**](https://github.com/yusuf-s-ahmed/Stock-Visualiser/tree/yusuf/update)  
