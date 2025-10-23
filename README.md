@@ -41,7 +41,7 @@ I’m a 2nd year Computer Science student at City, University of London, interes
 
 <h4 align="left">Github Statistics</h4>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yusuf-s-ahmed&theme=flat&title=Commits,Repositories&column-w=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yusuf-s-ahmed&theme=flat&title=Commits,Repositories&column-w=20)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
