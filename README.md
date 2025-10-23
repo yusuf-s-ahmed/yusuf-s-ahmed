@@ -1,4 +1,4 @@
-**Open-Source Projects**
+<small>Open-Source Projects</small>
 
 [**Stock Candlestick Data Visualiser**](https://github.com/yusuf-s-ahmed/Stock-Visualiser/tree/yusuf/update)  
 *Python, yfinance, matplotlib, mplfinance*
