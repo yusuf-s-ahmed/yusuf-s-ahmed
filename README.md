@@ -9,7 +9,7 @@
 
 <h4 align="left">Research & Analysis</h4>
 
-[**Research & Analysis of Portfolio Risk in UK & Global Equities**](https://github.com/yusuf-s-ahmed/Portfolio-Risk-Investment-Analysis-of-UK-Equities)  
+[**Analysis of Portfolio Risk in UK & Global Equities**](https://github.com/yusuf-s-ahmed/Portfolio-Risk-Investment-Analysis-of-UK-Equities)  
 *Python (pandas, NumPy), SQL, Excel, Power BI*  
 
 [**A/B Testing & Analysing Meta's Ad Dataset**](https://github.com/yusuf-s-ahmed/Meta-Data-Analysis)  
