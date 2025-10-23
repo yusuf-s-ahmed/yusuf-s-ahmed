@@ -1,4 +1,4 @@
-<h4 align="left">Research Analysis Projects</h4>
+<h4 align="left">Open-Source</h4>
 
 [**Stock Candlestick Data Visualiser**](https://github.com/yusuf-s-ahmed/Stock-Visualiser/tree/yusuf/update)  
 *Python, yfinance, matplotlib, mplfinance*
