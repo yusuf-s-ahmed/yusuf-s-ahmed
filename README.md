@@ -18,7 +18,7 @@
 [**Valuation & M&A Analysis of Barclays & Kensington Mortgages**](https://github.com/yusuf-s-ahmed/Valuation-and-Acquisition-Analysis-of-Barclays-and-Kensington-Mortgages)  
 *Python (pandas), Excel*  
 
-<h3 align="left">Personal Projects</h3>
+<h4 align="left">Personal Projects</h4>
 
 [**Pre-Operating Financial Expenses ETL Pipeline**](https://github.com/yusuf-s-ahmed/Financial-Outflow-ETL-Pipeline)  
 *Python, Apache Spark (PySpark), pandas, Terraform, AWS, Airflow*  
