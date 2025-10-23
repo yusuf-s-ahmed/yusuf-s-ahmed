@@ -27,7 +27,7 @@ Highlights:
 
 <h3 align="left">Open-Source Projects</h3>
 
-[**Stock Candlestick Data Visualiser**](https://github.com/yusuf-s-ahmed/Stock-Visualiser)  
+[**Stock Candlestick Data Visualiser**](https://github.com/yusuf-s-ahmed/Stock-Visualiser/tree/yusuf/update)
 *Python, yfinance, matplotlib, mplfinance*  
 
 [**Multi-Agent AI Finance System**](https://github.com/yusuf-s-ahmed/Multi-AI-Agent-System)  
