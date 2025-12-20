@@ -16,7 +16,7 @@ I’m a 2nd year Computer Science student at City, University of London, interes
 
 <h4 align="left">Research & Analysis Projects</h4>
 
-[**AI's Impact in the UK**](https://github.com/yusuf-s-ahmed/AI-Research-Analysis-UK)  
+[**Challenges of AI in the UK**](https://github.com/yusuf-s-ahmed/AI-Research-Analysis-UK)  
 *Python (pandas, matplotlib), BeatifulSoup* 
 
 [**Analysis of Portfolio Risk in UK & Global Equities**](https://github.com/yusuf-s-ahmed/Portfolio-Risk-Investment-Analysis-of-UK-Equities)  
