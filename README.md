@@ -4,8 +4,6 @@ I’m a 2nd year Computer Science student at City, University of London, interes
 
 - Research Analyst at a student-led organisation and Student Ambassador at City, University of London.
 
-- Software Developer Intern at an AI deep-tech company based in the US.
-
 - Coding Teaching Assistant for an educational, community interest company.
 
 <h4 align="left">Open-Source Projects</h4>
