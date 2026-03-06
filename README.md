@@ -33,11 +33,6 @@ https://github.com/yusuf-s-ahmed/financial-stock-visualiser/tree/yusuf/update
 Software for analysing diagnostic signals from medical hardware.  
 https://github.com/yusuf-s-ahmed/medical-hardware-diagnostics
 
-- **AI Trading Bot**  
-Algorithmic trading system using market data and predictive modelling.  
-https://github.com/yusuf-s-ahmed/ai-trading-bot
-
-
 
 
 
