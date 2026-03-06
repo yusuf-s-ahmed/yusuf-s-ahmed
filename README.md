@@ -6,7 +6,7 @@ I’m a 2nd year Computer Science student at City, University of London, interes
 
 - Coding Teaching Assistant for an educational, community interest company.
 
-<h4 align="left">Open-Source Projects</h4>
+<h4 align="left">Open-Source</h4>
 
 [**Driving Test Web Scraper**](https://github.com/yusuf-s-ahmed/driving-test-web-scraper) 
 
