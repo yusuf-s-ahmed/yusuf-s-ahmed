@@ -1,6 +1,4 @@
-<h4 align="left">About Me</h4>
-
-I’m a 2nd year Computer Science student at City, University of London.
+I like building systems that talk to each other.
 
 <h4 align="left">Open-source repositories</h4>
 
