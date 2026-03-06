@@ -1,3 +1,5 @@
+AI Systems Engineer @ Department of Engineering, City University of London
+
 I like building systems that communicate with each other.
 
 <h4 align="left">Open-source repositories</h4>
