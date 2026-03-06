@@ -5,12 +5,6 @@
 
 I build systems that communicate with each other, involving data, AI, and cloud computing.
 
-#### Current Focus
-
-- Data pipelines
-- Multi-agent AI systems  
-- Cloud computing
-
 #### Selected Projects
 
 - **Multi-Agent AI System**  
