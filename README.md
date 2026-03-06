@@ -1,5 +1,5 @@
-Computer Science BSc @ City, University of London  
-AI Systems Engineer @ Department of Engineering, City University of London
+Computer Science BSc at City, University of London  
+AI Systems Engineer at Department of Engineering, City University of London
 
 I like building systems that communicate with each other.
 
