@@ -1,7 +1,7 @@
 - Computer Science BSc @ City, University of London  
 - AI Systems Engineer @ Department of Engineering, City University of London
 
-I build systems that communicate with each other, involving data pipelines, AI, and cloud infrastructure.
+I build systems that communicate with each other, involving data, AI, and cloud.
 
 <h4 align="left">Open-Source Repositories</h4>
 
