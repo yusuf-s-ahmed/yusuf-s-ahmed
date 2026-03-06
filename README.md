@@ -3,16 +3,16 @@
 
 I like building systems that communicate with each other.
 
-<h4 align="left">Open-source repositories</h4>
+<h4 align="left">Open-Source Repositories</h4>
 
-- [**Driving test web-scraper**](https://github.com/yusuf-s-ahmed/driving-test-web-scraper) 
+- [**Driving Test Web-Scraper**](https://github.com/yusuf-s-ahmed/driving-test-web-scraper) 
 
-- [**Financial stock visualiser**](https://github.com/yusuf-s-ahmed/financial-stock-visualiser)
+- [**Financial Stock Visualiser**](https://github.com/yusuf-s-ahmed/financial-stock-visualiser)
 
-- [**Multi-agent AI system**](https://github.com/yusuf-s-ahmed/multi-agent-ai-system)
+- [**Multi-Agent AI System**](https://github.com/yusuf-s-ahmed/multi-agent-ai-system)
 
-- [**AI trading bot**](https://github.com/yusuf-s-ahmed/ai-trading-bot)
+- [**AI Trading Bot**](https://github.com/yusuf-s-ahmed/ai-trading-bot)
 
-- [**Medical hardware diagnostics**](https://github.com/yusuf-s-ahmed/medical-hardware-diagnostics)
+- [**Medical Hardware Diagnostics**](https://github.com/yusuf-s-ahmed/medical-hardware-diagnostics)
 
-- [**Drug classification experiment**](https://github.com/yusuf-s-ahmed/drug-classification-experiment)
+- [**Drug Classification Experiment**](https://github.com/yusuf-s-ahmed/drug-classification-experiment)
