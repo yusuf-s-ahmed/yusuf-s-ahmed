@@ -1,7 +1,7 @@
+I like building systems that communicate with each other.
+
 - Computer Science BSc at City, University of London  
 - AI Systems Engineer at Department of Engineering, City University of London
-
-I like building systems that communicate with each other.
 
 <h4 align="left">Open-Source Repositories</h4>
 
