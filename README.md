@@ -1,4 +1,4 @@
-I like building systems that communicate.
+I like building systems that communicate with each other.
 
 <h4 align="left">Open-source repositories</h4>
 
