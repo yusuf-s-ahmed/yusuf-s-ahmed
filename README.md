@@ -5,7 +5,7 @@
 
 I build systems that communicate with each other, involving data, AI, and cloud computing.
 
-#### Selected Projects
+#### Open-Source Repositories
 
 - **Multi-Agent AI System**  
 Framework for coordinating multiple AI agents to perform structured tasks.  
