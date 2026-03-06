@@ -8,8 +8,7 @@ I’m a 2nd year Computer Science student at City, University of London, interes
 
 <h4 align="left">Open-Source Projects</h4>
 
-[**driving-test-web-scraper**](https://github.com/yusuf-s-ahmed/driving-test-web-scraper) 
-*Python, Ollama, yfinance, BeautifulSoup, pandas*  
+[**Driving Test Web Scraper**](https://github.com/yusuf-s-ahmed/driving-test-web-scraper) 
 
 [**Stock Candlestick Data Visualiser**](https://github.com/yusuf-s-ahmed/Stock-Visualiser/tree/yusuf/update)  
 *Python, yfinance, matplotlib, mplfinance*
