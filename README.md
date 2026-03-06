@@ -27,7 +27,7 @@ https://github.com/yusuf-s-ahmed/driving-test-web-scraper
 
 - **Financial Stock Visualiser**  
 Tool for analysing and visualising stock market data.  
-https://github.com/yusuf-s-ahmed/financial-stock-visualiser
+https://github.com/yusuf-s-ahmed/financial-stock-visualiser/tree/yusuf/update
 
 - **Medical Hardware Diagnostics**  
 Software for analysing diagnostic signals from medical hardware.  
