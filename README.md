@@ -1,9 +1,5 @@
 #### Yusuf S. Ahmed
 
-- 2nd Year Computer Science BSc at City, University of London  
-- AI Systems Engineer at Department of Engineering, City, University of London
-- Cyber PATH Student at National Cyber Resilence Centre Group
-
 I build systems that communicate with each other, involving data, AI, and cloud computing.
 
 #### Selected Projects
