@@ -1,5 +1,3 @@
-I work on AI systems and research.
-
 #### Local LLM Agentic System  
 https://github.com/yusuf-s-ahmed/local-llm-agentic-system
 
